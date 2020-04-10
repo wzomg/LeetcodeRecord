@@ -15,6 +15,7 @@
     * [42.接雨水](array/lt-42-trapping-rain-water)
 * 栈
     * [150.逆波兰表达式求值](stack/lt-150-evaluate-reverse-polish-notation)
+    * [224.基本计算器](stack/lt-224-basic-calculator)
     * [84.柱状图中最大的矩形](stack/lt-84-largest-rectangle-in-histogram)
     * [739.每日温度](stack/lt-739-daily-temperatures)
 
@@ -23,6 +24,8 @@
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
 
 * 字符串
+    * [151.翻转字符串里的单词](string/lt-151-reverse-words-in-a-string)
+
 * 树
     * [543.二叉树的直径](tree/lt-543-diameter-of-binary-tree)
 
