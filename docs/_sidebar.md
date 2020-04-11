@@ -1,6 +1,7 @@
 * 动态规划
     * [72.编辑距离](dynamicPG/lt-72-edit-distance)
     * [面试题63.股票的最大利润](dynamicPG/mst-63-gu-piao-de-zui-da-li-run-lcof)
+    * [887.鸡蛋掉落](dynamicPG/lt-887-super-egg-drop)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
