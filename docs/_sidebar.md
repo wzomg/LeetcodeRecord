@@ -36,7 +36,11 @@
     * [543.二叉树的直径](tree/lt-543-diameter-of-binary-tree)
 
 * 二分查找
+    * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
+    * [153.寻找旋转排序数组中的最小值](binarySearch/lt-153-find-minimum-in-rotated-sorted-array)
+
 * 设计
     * [146.LRU缓存机制](design/lt-146-lru-cache)
     * [460.LFU缓存](design/lt-460-lfu-cache) 
+    * [355.设计推特](design/lt-355-design-twitter)
 
