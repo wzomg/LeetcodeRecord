@@ -11,10 +11,14 @@
     * [面试题13.机器人的运动范围](dfs/mst-13-ji-qi-ren-de-yun-dong-fan-wei-lcof)
     * [22.括号生成](dfs/lt-22-generate-parentheses)
 
+* 并查集
+    * [128.最长连续序列](unionFind/lt-128-longest-consecutive-sequence)
+
 * 数组
     * [面试题 01.07.旋转矩阵](array/mst-01-07-rotate-matrix-lcci)
     * [42.接雨水](array/lt-42-trapping-rain-water)
     * [31.下一个排列](array/lt-31-next-permutation)
+    * [945.使数组唯一的最小增量](array/lt-945-minimum-increment-to-make-array-unique)
 
 * 栈
     * [150.逆波兰表达式求值](stack/lt-150-evaluate-reverse-polish-notation)
@@ -24,6 +28,7 @@
 
 * 链表
     * [142.环形链表II](linkedlist/lt-142-linked-list-cycle-ii)
+    * [445.两数相加II](linkedlist/lt-445-add-two-numbers-ii)
 
 * 数学
 * 位运算
