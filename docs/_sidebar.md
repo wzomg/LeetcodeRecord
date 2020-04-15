@@ -7,9 +7,10 @@
     * [15.三数之和](twoPointers/lt-15-3sum.md)
     * [167.两数之和II-输入有序数组](twoPointers/lt-167-two-sum-ii-input-array-is-sorted)
 
-* 深度优先搜索
-    * [面试题13.机器人的运动范围](dfs/mst-13-ji-qi-ren-de-yun-dong-fan-wei-lcof)
-    * [22.括号生成](dfs/lt-22-generate-parentheses)
+* 深度/广度优先搜索
+    * [面试题13.机器人的运动范围](dfsOrBfs/mst-13-ji-qi-ren-de-yun-dong-fan-wei-lcof)
+    * [22.括号生成](dfsOrBfs/lt-22-generate-parentheses)
+    * [542.01矩阵](dfsOrBfs/lt-542-01-matrix)
 
 * 并查集
     * [128.最长连续序列](unionFind/lt-128-longest-consecutive-sequence)
@@ -39,6 +40,7 @@
 
 * 树
     * [543.二叉树的直径](tree/lt-543-diameter-of-binary-tree)
+    * [236.二叉树的最近公共祖先](tree/lt-236-lowest-common-ancestor-of-a-binary-tree)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
