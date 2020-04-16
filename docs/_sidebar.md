@@ -2,6 +2,7 @@
     * [72.编辑距离](dynamicPG/lt-72-edit-distance)
     * [面试题63.股票的最大利润](dynamicPG/mst-63-gu-piao-de-zui-da-li-run-lcof)
     * [887.鸡蛋掉落](dynamicPG/lt-887-super-egg-drop)
+    * [322.零钱兑换](dynamicPG/lt-322-coin-change)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
@@ -20,6 +21,7 @@
     * [42.接雨水](array/lt-42-trapping-rain-water)
     * [31.下一个排列](array/lt-31-next-permutation)
     * [945.使数组唯一的最小增量](array/lt-945-minimum-increment-to-make-array-unique)
+    * [56.合并区间](array/lt-56-merge-intervals)
 
 * 栈
     * [150.逆波兰表达式求值](stack/lt-150-evaluate-reverse-polish-notation)
@@ -30,6 +32,9 @@
 * 链表
     * [142.环形链表II](linkedlist/lt-142-linked-list-cycle-ii)
     * [445.两数相加II](linkedlist/lt-445-add-two-numbers-ii)
+    * [83.删除排序链表中的重复元素](linkedlist/lt-83-remove-duplicates-from-sorted-list)
+    * [82.删除排序链表中的重复元素II](linkedlist/lt-82-remove-duplicates-from-sorted-list-ii)
+    * [面试题02.01.移除重复节点](linkedlist/mst-02-01-remove-duplicate-node-lcci)
 
 * 数学
 * 位运算
