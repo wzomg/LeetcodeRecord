@@ -7,11 +7,17 @@
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
     * [167.两数之和II-输入有序数组](twoPointers/lt-167-two-sum-ii-input-array-is-sorted)
+    * [面试题48.最长不含重复字符的子字符串](twoPointers/mst-48-zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof)
+    * [26.删除排序数组中的重复项](twoPointers/lt-26-remove-duplicates-from-sorted-array)
 
 * 深度/广度优先搜索
     * [面试题13.机器人的运动范围](dfsOrBfs/mst-13-ji-qi-ren-de-yun-dong-fan-wei-lcof)
     * [22.括号生成](dfsOrBfs/lt-22-generate-parentheses)
     * [542.01矩阵](dfsOrBfs/lt-542-01-matrix)
+
+* 贪心
+    * [55.跳跃游戏](greedy/lt-55-jump-game)
+    * [45.跳跃游戏II](greedy/lt-45-jump-game-ii)
 
 * 并查集
     * [128.最长连续序列](unionFind/lt-128-longest-consecutive-sequence)
@@ -28,6 +34,9 @@
     * [224.基本计算器](stack/lt-224-basic-calculator)
     * [84.柱状图中最大的矩形](stack/lt-84-largest-rectangle-in-histogram)
     * [739.每日温度](stack/lt-739-daily-temperatures)
+
+* 堆
+    * [23.合并K个排序链表](heap/lt-23-merge-k-sorted-lists)
 
 * 链表
     * [142.环形链表II](linkedlist/lt-142-linked-list-cycle-ii)
