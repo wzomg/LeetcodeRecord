@@ -46,6 +46,7 @@
     * [83.删除排序链表中的重复元素](linkedlist/lt-83-remove-duplicates-from-sorted-list)
     * [82.删除排序链表中的重复元素II](linkedlist/lt-82-remove-duplicates-from-sorted-list-ii)
     * [面试题02.01.移除重复节点](linkedlist/mst-02-01-remove-duplicate-node-lcci)
+    * [面试题06.从尾到头打印链表](linkedlist/mst-06-cong-wei-dao-tou-da-yin-lian-biao-lcof)
 
 * 数学
 * 位运算
@@ -61,6 +62,9 @@
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
     * [153.寻找旋转排序数组中的最小值](binarySearch/lt-153-find-minimum-in-rotated-sorted-array)
+
+* 哈希表
+    * [5389.点菜展示表](hashTable/lt-5389-display-table-of-food-orders-in-a-restaurant)
 
 * 设计
     * [146.LRU缓存机制](design/lt-146-lru-cache)
