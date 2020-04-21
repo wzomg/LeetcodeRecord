@@ -10,12 +10,15 @@
     * [面试题48.最长不含重复字符的子字符串](twoPointers/mst-48-zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof)
     * [26.删除排序数组中的重复项](twoPointers/lt-26-remove-duplicates-from-sorted-array)
     * [11.盛最多水的容器](twoPointers/lt-11-container-with-most-water)
+    * [1248.统计「优美子数组」](twoPointers/lt-1248-count-number-of-nice-subarrays)
+    * [75.颜色分类](twoPointers/lt-75-sort-colors)
 
 * 深度/广度优先搜索
     * [面试题13.机器人的运动范围](dfsOrBfs/mst-13-ji-qi-ren-de-yun-dong-fan-wei-lcof)
     * [22.括号生成](dfsOrBfs/lt-22-generate-parentheses)
     * [542.01矩阵](dfsOrBfs/lt-542-01-matrix)
     * [LCP07.传递信息](dfsOrBfs/lt-lcp-07-chuan-di-xin-xi)
+    * [200.岛屿数量](dfsOrBfs/lt-200-number-of-islands)
 
 * 贪心
     * [55.跳跃游戏](greedy/lt-55-jump-game)
