@@ -19,6 +19,7 @@
     * [542.01矩阵](dfsOrBfs/lt-542-01-matrix)
     * [LCP07.传递信息](dfsOrBfs/lt-lcp-07-chuan-di-xin-xi)
     * [200.岛屿数量](dfsOrBfs/lt-200-number-of-islands)
+    * [199.二叉树的右视图](dfsOrBfs/lt-199-binary-tree-right-side-view)
 
 * 贪心
     * [55.跳跃游戏](greedy/lt-55-jump-game)
@@ -68,6 +69,7 @@
 
 * 哈希表
     * [5389.点菜展示表](hashTable/lt-5389-display-table-of-food-orders-in-a-restaurant)
+    * [957.N天后的牢房](hashTable/lt-957-prison-cells-after-n-days)
 
 * 设计
     * [146.LRU缓存机制](design/lt-146-lru-cache)
