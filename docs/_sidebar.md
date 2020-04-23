@@ -3,6 +3,7 @@
     * [面试题63.股票的最大利润](dynamicPG/mst-63-gu-piao-de-zui-da-li-run-lcof)
     * [887.鸡蛋掉落](dynamicPG/lt-887-super-egg-drop)
     * [322.零钱兑换](dynamicPG/lt-322-coin-change)
+    * [面试题08.11.硬币](dynamicPG/mst-08-11-coin-lcci)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
@@ -55,6 +56,9 @@
 * 数学
 * 位运算
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
+
+* 排序
+    * [912.排序数组](sort/lt-912-sort-an-array)
 
 * 字符串
     * [151.翻转字符串里的单词](string/lt-151-reverse-words-in-a-string)
