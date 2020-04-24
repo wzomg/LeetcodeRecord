@@ -20,7 +20,7 @@
     * [542.01矩阵](dfsOrBfs/lt-542-01-matrix)
     * [LCP07.传递信息](dfsOrBfs/lt-lcp-07-chuan-di-xin-xi)
     * [200.岛屿数量](dfsOrBfs/lt-200-number-of-islands)
-    * [199.二叉树的右视图](dfsOrBfs/lt-199-binary-tree-right-side-view)
+    * [面试题51.数组中的逆序对](dfsOrBfs/mst-51-shu-zu-zhong-de-ni-xu-dui-lcof)
 
 * 贪心
     * [55.跳跃游戏](greedy/lt-55-jump-game)
@@ -66,6 +66,8 @@
 * 树
     * [543.二叉树的直径](tree/lt-543-diameter-of-binary-tree)
     * [236.二叉树的最近公共祖先](tree/lt-236-lowest-common-ancestor-of-a-binary-tree)
+    * [199.二叉树的右视图](tree/lt-199-binary-tree-right-side-view)
+    * [面试题34.二叉树中和为某一值的路径](tree/mst-34-er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
