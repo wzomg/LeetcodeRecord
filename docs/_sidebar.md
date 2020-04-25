@@ -21,6 +21,7 @@
     * [LCP07.传递信息](dfsOrBfs/lt-lcp-07-chuan-di-xin-xi)
     * [200.岛屿数量](dfsOrBfs/lt-200-number-of-islands)
     * [面试题51.数组中的逆序对](dfsOrBfs/mst-51-shu-zu-zhong-de-ni-xu-dui-lcof)
+    * [46.全排列](dfsOrBfs/lt-46-permutations)
 
 * 贪心
     * [55.跳跃游戏](greedy/lt-55-jump-game)
@@ -72,9 +73,11 @@
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
     * [153.寻找旋转排序数组中的最小值](binarySearch/lt-153-find-minimum-in-rotated-sorted-array)
+    * [410.分割数组的最大值](binarySearch/lt-410-split-array-largest-sum)
+    * [LCP12.小张刷题计划](binarySearch/lt-lcp-12-xiao-zhang-shua-ti-ji-hua)
 
 * 哈希表
-    * [5389.点菜展示表](hashTable/lt-5389-display-table-of-food-orders-in-a-restaurant)
+    * [1418.点菜展示表](hashTable/lt-1418-display-table-of-food-orders-in-a-restaurant)
     * [957.N天后的牢房](hashTable/lt-957-prison-cells-after-n-days)
 
 * 设计

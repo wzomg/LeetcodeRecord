@@ -1,4 +1,4 @@
-# 5389.点菜展示表
+# 1418.点菜展示表
 题目链接：[传送门](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant/)
 
 ## 题目描述：
