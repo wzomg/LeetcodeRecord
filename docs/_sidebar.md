@@ -4,6 +4,8 @@
     * [887.鸡蛋掉落](dynamicPG/lt-887-super-egg-drop)
     * [322.零钱兑换](dynamicPG/lt-322-coin-change)
     * [面试题08.11.硬币](dynamicPG/mst-08-11-coin-lcci)
+    * [62.不同路径](dynamicPG/lt-62-unique-paths)
+    * [63.不同路径 II](dynamicPG/lt-63-unique-paths-ii)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
