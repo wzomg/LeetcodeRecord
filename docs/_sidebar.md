@@ -6,6 +6,8 @@
     * [面试题08.11.硬币](dynamicPG/mst-08-11-coin-lcci)
     * [62.不同路径](dynamicPG/lt-62-unique-paths)
     * [63.不同路径 II](dynamicPG/lt-63-unique-paths-ii)
+    * [279.完全平方数](dynamicPG/lt-279-perfect-squares)
+    * [5.最长回文子串](dynamicPG/lt-5-longest-palindromic-substring)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
@@ -55,6 +57,7 @@
     * [82.删除排序链表中的重复元素II](linkedlist/lt-82-remove-duplicates-from-sorted-list-ii)
     * [面试题02.01.移除重复节点](linkedlist/mst-02-01-remove-duplicate-node-lcci)
     * [面试题06.从尾到头打印链表](linkedlist/mst-06-cong-wei-dao-tou-da-yin-lian-biao-lcof)
+    * [160.相交链表](linkedlist/lt-160-intersection-of-two-linked-lists)
 
 * 数学
 * 位运算
