@@ -57,7 +57,7 @@ class Solution {
 		for (int i = 0, dx, dy; i < 4; i++) {
 			dx = x + dir[i][0];
 			dy = y + dir[i][1];
-			// 从(x,y)当前最短距离一直向外扩张，向覆盖岛屿那样
+			// 从(x,y)当前最短距离一直向外扩张，像覆盖岛屿那样
 			if (check(dx, dy) && ans[dx][dy] > ans[x][y] + 1) {
 				ans[dx][dy] = ans[x][y] + 1;
 				dfs(matrix, dx, dy);

@@ -62,6 +62,7 @@
 * 数学
 * 位运算
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
+    * [面试题56-I.数组中数字出现的次数](bitOperation/mst-56-I-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof)
 
 * 排序
     * [912.排序数组](sort/lt-912-sort-an-array)
@@ -80,6 +81,8 @@
     * [153.寻找旋转排序数组中的最小值](binarySearch/lt-153-find-minimum-in-rotated-sorted-array)
     * [410.分割数组的最大值](binarySearch/lt-410-split-array-largest-sum)
     * [LCP12.小张刷题计划](binarySearch/lt-lcp-12-xiao-zhang-shua-ti-ji-hua)
+    * [1095.山脉数组中查找目标值](binarySearch/lt-1095-find-in-mountain-array)
+    * [69.x的平方根](binarySearch/lt-69-sqrtx)
 
 * 哈希表
     * [1418.点菜展示表](hashTable/lt-1418-display-table-of-food-orders-in-a-restaurant)
