@@ -8,6 +8,7 @@
     * [63.不同路径 II](dynamicPG/lt-63-unique-paths-ii)
     * [279.完全平方数](dynamicPG/lt-279-perfect-squares)
     * [5.最长回文子串](dynamicPG/lt-5-longest-palindromic-substring)
+    * [53.最大子序和](dynamicPG/lt-53-maximum-subarray)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
@@ -17,6 +18,8 @@
     * [11.盛最多水的容器](twoPointers/lt-11-container-with-most-water)
     * [1248.统计「优美子数组」](twoPointers/lt-1248-count-number-of-nice-subarrays)
     * [75.颜色分类](twoPointers/lt-75-sort-colors)
+    * [面试题57-II.和为s的连续正数序列](twoPointers/mst-57-II-he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof)
+    * [1004.最大连续1的个数III](twoPointers/lt-1004-max-consecutive-ones-iii)
 
 * 深度/广度优先搜索
     * [面试题13.机器人的运动范围](dfsOrBfs/mst-13-ji-qi-ren-de-yun-dong-fan-wei-lcof)
@@ -30,6 +33,7 @@
 * 贪心
     * [55.跳跃游戏](greedy/lt-55-jump-game)
     * [45.跳跃游戏II](greedy/lt-45-jump-game-ii)
+    * [122.买卖股票的最佳时机 II](greedy/lt-122-best-time-to-buy-and-sell-stock-ii)
 
 * 并查集
     * [128.最长连续序列](unionFind/lt-128-longest-consecutive-sequence)
@@ -40,6 +44,7 @@
     * [31.下一个排列](array/lt-31-next-permutation)
     * [945.使数组唯一的最小增量](array/lt-945-minimum-increment-to-make-array-unique)
     * [56.合并区间](array/lt-56-merge-intervals)
+    * [485.最大连续1的个数](array/lt-485-max-consecutive-ones)
 
 * 栈
     * [150.逆波兰表达式求值](stack/lt-150-evaluate-reverse-polish-notation)
