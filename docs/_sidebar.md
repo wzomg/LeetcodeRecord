@@ -63,6 +63,8 @@
     * [面试题02.01.移除重复节点](linkedlist/mst-02-01-remove-duplicate-node-lcci)
     * [面试题06.从尾到头打印链表](linkedlist/mst-06-cong-wei-dao-tou-da-yin-lian-biao-lcof)
     * [160.相交链表](linkedlist/lt-160-intersection-of-two-linked-lists)
+    * [328.奇偶链表](linkedlist/lt-328-odd-even-linked-list)
+    * [92.反转链表II](linkedlist/lt-92-reverse-linked-list-ii)
 
 * 数学
 * 位运算
