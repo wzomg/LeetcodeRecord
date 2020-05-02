@@ -9,6 +9,8 @@
     * [279.完全平方数](dynamicPG/lt-279-perfect-squares)
     * [5.最长回文子串](dynamicPG/lt-5-longest-palindromic-substring)
     * [53.最大子序和](dynamicPG/lt-53-maximum-subarray)
+    * [1262.可被三整除的最大和](dynamicPG/lt-1262-greatest-sum-divisible-by-three)
+    * [123.买卖股票的最佳时机III](dynamicPG/lt-123-best-time-to-buy-and-sell-stock-iii)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
