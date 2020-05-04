@@ -34,16 +34,16 @@ class Solution {
 			maxIdx = cur + 1; // 至少跳1步到下一个位置
 			maxRt = cur + 1 + nums[cur + 1];
 			for (int i = 2; i <= nums[cur]; i++) { // 从2步开始
+				if (maxRt >= len - 1)
+					break;
 				if (cur + i + nums[cur + i] > maxRt) {
 					maxRt = cur + i + nums[cur + i];
 					maxIdx = cur + i;
 				}
-				if (maxRt >= len - 1) // 优化
-					break;
 			}
-			res++;
-			// 选择下次能跳得最远的位置
+			// 选择下次能跳得最远距离的下标
 			cur = maxIdx;
+			res++;
 		}
 		return res;
 	}
