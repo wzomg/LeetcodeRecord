@@ -79,12 +79,14 @@
 
 * 字符串
     * [151.翻转字符串里的单词](string/lt-151-reverse-words-in-a-string)
+    * [28.实现strStr()](string/lt-28-implement-strstr)
 
 * 树
     * [543.二叉树的直径](tree/lt-543-diameter-of-binary-tree)
     * [236.二叉树的最近公共祖先](tree/lt-236-lowest-common-ancestor-of-a-binary-tree)
     * [199.二叉树的右视图](tree/lt-199-binary-tree-right-side-view)
     * [面试题34.二叉树中和为某一值的路径](tree/mst-34-er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof)
+    * [98.验证二叉搜索树](tree/lt-98-validate-binary-search-tree)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
