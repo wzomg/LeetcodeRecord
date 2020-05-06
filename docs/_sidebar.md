@@ -12,6 +12,7 @@
     * [1262.可被三整除的最大和](dynamicPG/lt-1262-greatest-sum-divisible-by-three)
     * [123.买卖股票的最佳时机III](dynamicPG/lt-123-best-time-to-buy-and-sell-stock-iii)
     * [188.买卖股票的最佳时机IV](dynamicPG/lt-188-best-time-to-buy-and-sell-stock-iv)
+    * [983.最低票价](dynamicPG/lt-983-minimum-cost-for-tickets)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
@@ -70,9 +71,12 @@
     * [92.反转链表II](linkedlist/lt-92-reverse-linked-list-ii)
 
 * 数学
+    * [507.完美数](math/lt-507-perfect-number)
+
 * 位运算
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
     * [面试题56-I.数组中数字出现的次数](bitOperation/mst-56-I-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof)
+    * [397.整数替换](bitOperation/lt-397-integer-replacement)
 
 * 排序
     * [912.排序数组](sort/lt-912-sort-an-array)
@@ -95,6 +99,7 @@
     * [LCP12.小张刷题计划](binarySearch/lt-lcp-12-xiao-zhang-shua-ti-ji-hua)
     * [1095.山脉数组中查找目标值](binarySearch/lt-1095-find-in-mountain-array)
     * [69.x的平方根](binarySearch/lt-69-sqrtx)
+    * [LCP08.剧情触发时间](binarySearch/lt-lcp-08-ju-qing-hong-fa-shi-jian)
 
 * 哈希表
     * [1418.点菜展示表](hashTable/lt-1418-display-table-of-food-orders-in-a-restaurant)
