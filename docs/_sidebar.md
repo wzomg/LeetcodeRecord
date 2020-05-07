@@ -91,6 +91,8 @@
     * [199.二叉树的右视图](tree/lt-199-binary-tree-right-side-view)
     * [面试题34.二叉树中和为某一值的路径](tree/mst-34-er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof)
     * [98.验证二叉搜索树](tree/lt-98-validate-binary-search-tree)
+    * [572.另一个树的子树](tree/lt-572-subtree-of-another-tree)
+    * [面试题26.树的子结构](tree/mst-26-shu-de-zi-jie-gou-lcof)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
