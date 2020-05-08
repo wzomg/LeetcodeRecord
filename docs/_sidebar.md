@@ -13,6 +13,7 @@
     * [123.买卖股票的最佳时机III](dynamicPG/lt-123-best-time-to-buy-and-sell-stock-iii)
     * [188.买卖股票的最佳时机IV](dynamicPG/lt-188-best-time-to-buy-and-sell-stock-iv)
     * [983.最低票价](dynamicPG/lt-983-minimum-cost-for-tickets)
+    * [221.最大正方形](dynamicPG/lt-221-maximal-square)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
@@ -24,6 +25,7 @@
     * [75.颜色分类](twoPointers/lt-75-sort-colors)
     * [面试题57-II.和为s的连续正数序列](twoPointers/mst-57-II-he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof)
     * [1004.最大连续1的个数III](twoPointers/lt-1004-max-consecutive-ones-iii)
+    * [16.最接近的三数之和](twoPointers/lt-16-3sum-closest)
 
 * 深度/广度优先搜索
     * [面试题13.机器人的运动范围](dfsOrBfs/mst-13-ji-qi-ren-de-yun-dong-fan-wei-lcof)
