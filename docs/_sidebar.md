@@ -71,9 +71,11 @@
     * [160.相交链表](linkedlist/lt-160-intersection-of-two-linked-lists)
     * [328.奇偶链表](linkedlist/lt-328-odd-even-linked-list)
     * [92.反转链表II](linkedlist/lt-92-reverse-linked-list-ii)
+    * [24.两两交换链表中的节点](linkedlist/lt-24-swap-nodes-in-pairs)
 
 * 数学
     * [507.完美数](math/lt-507-perfect-number)
+    * [50.Pow(x, n)](math/lt-50-powx-n)
 
 * 位运算
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
