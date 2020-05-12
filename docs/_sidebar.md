@@ -81,7 +81,7 @@
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
     * [面试题56-I.数组中数字出现的次数](bitOperation/mst-56-I-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof)
     * [397.整数替换](bitOperation/lt-397-integer-replacement)
-    * [5405.形成两个异或相等数组的三元组数目](bitOperation/lt-5405-count-triplets-that-can-form-two-arrays-of-equal-xor)
+    * [1442.形成两个异或相等数组的三元组数目](bitOperation/lt-1442-count-triplets-that-can-form-two-arrays-of-equal-xor)
 
 * 排序
     * [912.排序数组](sort/lt-912-sort-an-array)
@@ -98,7 +98,7 @@
     * [98.验证二叉搜索树](tree/lt-98-validate-binary-search-tree)
     * [572.另一个树的子树](tree/lt-572-subtree-of-another-tree)
     * [面试题26.树的子结构](tree/mst-26-shu-de-zi-jie-gou-lcof)
-    * [5406.收集树上所有苹果的最少时间](tree/lt-5406-minimum-time-to-collect-all-apples-in-a-tree)
+    * [1443.收集树上所有苹果的最少时间](tree/lt-1443-minimum-time-to-collect-all-apples-in-a-tree)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
@@ -117,4 +117,5 @@
     * [146.LRU缓存机制](design/lt-146-lru-cache)
     * [460.LFU缓存](design/lt-460-lfu-cache) 
     * [355.设计推特](design/lt-355-design-twitter)
+    * [155.最小栈](design/lt-155-min-stack)
 

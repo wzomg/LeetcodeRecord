@@ -1,4 +1,4 @@
-# 5406.收集树上所有苹果的最少时间
+# 1443.收集树上所有苹果的最少时间
 题目链接：[传送门](https://leetcode-cn.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)
 
 ## 题目描述：
