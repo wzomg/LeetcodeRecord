@@ -51,6 +51,7 @@
     * [945.使数组唯一的最小增量](array/lt-945-minimum-increment-to-make-array-unique)
     * [56.合并区间](array/lt-56-merge-intervals)
     * [485.最大连续1的个数](array/lt-485-max-consecutive-ones)
+    * [41.缺失的第一个正数](array/lt-41-first-missing-positive)
 
 * 栈
     * [150.逆波兰表达式求值](stack/lt-150-evaluate-reverse-polish-notation)
@@ -99,6 +100,7 @@
     * [572.另一个树的子树](tree/lt-572-subtree-of-another-tree)
     * [面试题26.树的子结构](tree/mst-26-shu-de-zi-jie-gou-lcof)
     * [1443.收集树上所有苹果的最少时间](tree/lt-1443-minimum-time-to-collect-all-apples-in-a-tree)
+    * [102.二叉树的层序遍历](tree/lt-102-binary-tree-level-order-traversal)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
