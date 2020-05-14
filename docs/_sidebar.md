@@ -101,6 +101,9 @@
     * [面试题26.树的子结构](tree/mst-26-shu-de-zi-jie-gou-lcof)
     * [1443.收集树上所有苹果的最少时间](tree/lt-1443-minimum-time-to-collect-all-apples-in-a-tree)
     * [102.二叉树的层序遍历](tree/lt-102-binary-tree-level-order-traversal)
+    * [144.二叉树的前序遍历](tree/lt-144-binary-tree-preorder-traversal)
+    * [94.二叉树的中序遍历](tree/lt-94-binary-tree-inorder-traversal)
+    * [145.二叉树的后序遍历](tree/lt-145-binary-tree-postorder-traversal)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
