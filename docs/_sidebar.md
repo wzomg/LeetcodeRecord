@@ -74,6 +74,8 @@
     * [328.奇偶链表](linkedlist/lt-328-odd-even-linked-list)
     * [92.反转链表II](linkedlist/lt-92-reverse-linked-list-ii)
     * [24.两两交换链表中的节点](linkedlist/lt-24-swap-nodes-in-pairs)
+    * [25.K个一组翻转链表](linkedlist/lt-25-reverse-nodes-in-k-group)
+    * [面试题02.06.回文链表](linkedlist/mst-02-06-palindrome-linked-list-lcci)
 
 * 数学
     * [507.完美数](math/lt-507-perfect-number)
