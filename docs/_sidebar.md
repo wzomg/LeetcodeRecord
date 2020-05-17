@@ -76,10 +76,12 @@
     * [24.两两交换链表中的节点](linkedlist/lt-24-swap-nodes-in-pairs)
     * [25.K个一组翻转链表](linkedlist/lt-25-reverse-nodes-in-k-group)
     * [面试题02.06.回文链表](linkedlist/mst-02-06-palindrome-linked-list-lcci)
+    * [206.反转链表](linkedlist/lt-206-reverse-linked-list)
 
 * 数学
     * [507.完美数](math/lt-507-perfect-number)
     * [50.Pow(x, n)](math/lt-50-powx-n)
+    * [7.整数反转](math/lt-7-reverse-integer)
 
 * 位运算
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
@@ -121,9 +123,13 @@
     * [1418.点菜展示表](hashTable/lt-1418-display-table-of-food-orders-in-a-restaurant)
     * [957.N天后的牢房](hashTable/lt-957-prison-cells-after-n-days)
 
+* 拓扑排序
+    * [210.课程表II](topologicalSort/lt-210-course-schedule-ii)
+
 * 设计
     * [146.LRU缓存机制](design/lt-146-lru-cache)
     * [460.LFU缓存](design/lt-460-lfu-cache) 
     * [355.设计推特](design/lt-355-design-twitter)
     * [155.最小栈](design/lt-155-min-stack)
+    * [225.用队列实现栈](design/lt-225-implement-stack-using-queues)
 
