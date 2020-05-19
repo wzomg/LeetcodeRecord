@@ -14,6 +14,7 @@
     * [188.买卖股票的最佳时机IV](dynamicPG/lt-188-best-time-to-buy-and-sell-stock-iv)
     * [983.最低票价](dynamicPG/lt-983-minimum-cost-for-tickets)
     * [221.最大正方形](dynamicPG/lt-221-maximal-square)
+    * [152.乘积最大子数组](dynamicPG/lt-152-maximum-product-subarray)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
@@ -95,6 +96,7 @@
 * 字符串
     * [151.翻转字符串里的单词](string/lt-151-reverse-words-in-a-string)
     * [28.实现strStr()](string/lt-28-implement-strstr)
+    * [680.验证回文字符串Ⅱ](string/lt-680-valid-palindrome-ii)
 
 * 树
     * [543.二叉树的直径](tree/lt-543-diameter-of-binary-tree)
