@@ -36,6 +36,7 @@
     * [200.岛屿数量](dfsOrBfs/lt-200-number-of-islands)
     * [面试题51.数组中的逆序对](dfsOrBfs/mst-51-shu-zu-zhong-de-ni-xu-dui-lcof)
     * [46.全排列](dfsOrBfs/lt-46-permutations)
+    * [面试题14-I.剪绳子](dfsOrBfs/mst-14-I-jian-sheng-zi-lcof)
 
 * 贪心
     * [55.跳跃游戏](greedy/lt-55-jump-game)
@@ -97,6 +98,7 @@
     * [151.翻转字符串里的单词](string/lt-151-reverse-words-in-a-string)
     * [28.实现strStr()](string/lt-28-implement-strstr)
     * [680.验证回文字符串Ⅱ](string/lt-680-valid-palindrome-ii)
+    * [1371.每个元音包含偶数次的最长子字符串](string/lt-1371-find-the-longest-substring-containing-vowels-in-even-counts)
 
 * 树
     * [543.二叉树的直径](tree/lt-543-diameter-of-binary-tree)
