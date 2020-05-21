@@ -27,6 +27,7 @@
     * [面试题57-II.和为s的连续正数序列](twoPointers/mst-57-II-he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof)
     * [1004.最大连续1的个数III](twoPointers/lt-1004-max-consecutive-ones-iii)
     * [16.最接近的三数之和](twoPointers/lt-16-3sum-closest)
+    * [3.无重复字符的最长子串](twoPointers/lt-3-longest-substring-without-repeating-characters)
 
 * 深度/广度优先搜索
     * [面试题13.机器人的运动范围](dfsOrBfs/mst-13-ji-qi-ren-de-yun-dong-fan-wei-lcof)
@@ -79,6 +80,7 @@
     * [25.K个一组翻转链表](linkedlist/lt-25-reverse-nodes-in-k-group)
     * [面试题02.06.回文链表](linkedlist/mst-02-06-palindrome-linked-list-lcci)
     * [206.反转链表](linkedlist/lt-206-reverse-linked-list)
+    * [2.两数相加](linkedlist/lt-2-add-two-numbers)
 
 * 数学
     * [507.完美数](math/lt-507-perfect-number)
@@ -126,6 +128,7 @@
 * 哈希表
     * [1418.点菜展示表](hashTable/lt-1418-display-table-of-food-orders-in-a-restaurant)
     * [957.N天后的牢房](hashTable/lt-957-prison-cells-after-n-days)
+    * [1.两数之和](hashTable/lt-1-two-sum)
 
 * 拓扑排序
     * [210.课程表II](topologicalSort/lt-210-course-schedule-ii)
