@@ -28,6 +28,8 @@
     * [1004.最大连续1的个数III](twoPointers/lt-1004-max-consecutive-ones-iii)
     * [16.最接近的三数之和](twoPointers/lt-16-3sum-closest)
     * [3.无重复字符的最长子串](twoPointers/lt-3-longest-substring-without-repeating-characters)
+    * [76.最小覆盖子串](twoPointers/lt-76-minimum-window-substring)
+    * [18.四数之和](twoPointers/lt-18-4sum)
 
 * 深度/广度优先搜索
     * [面试题13.机器人的运动范围](dfsOrBfs/mst-13-ji-qi-ren-de-yun-dong-fan-wei-lcof)
@@ -115,6 +117,7 @@
     * [144.二叉树的前序遍历](tree/lt-144-binary-tree-preorder-traversal)
     * [94.二叉树的中序遍历](tree/lt-94-binary-tree-inorder-traversal)
     * [145.二叉树的后序遍历](tree/lt-145-binary-tree-postorder-traversal)
+    * [105.从前序与中序遍历序列构造二叉树](tree/lt-105-construct-binary-tree-from-preorder-and-inorder-traversal)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
