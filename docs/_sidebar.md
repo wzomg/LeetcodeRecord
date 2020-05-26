@@ -30,6 +30,7 @@
     * [3.无重复字符的最长子串](twoPointers/lt-3-longest-substring-without-repeating-characters)
     * [76.最小覆盖子串](twoPointers/lt-76-minimum-window-substring)
     * [18.四数之和](twoPointers/lt-18-4sum)
+    * [287.寻找重复数](twoPointers/lt-287-find-the-duplicate-number)
 
 * 深度/广度优先搜索
     * [面试题13.机器人的运动范围](dfsOrBfs/mst-13-ji-qi-ren-de-yun-dong-fan-wei-lcof)
@@ -127,11 +128,13 @@
     * [1095.山脉数组中查找目标值](binarySearch/lt-1095-find-in-mountain-array)
     * [69.x的平方根](binarySearch/lt-69-sqrtx)
     * [LCP08.剧情触发时间](binarySearch/lt-lcp-08-ju-qing-hong-fa-shi-jian)
+    * [4.寻找两个正序数组的中位数](binarySearch/lt-4-median-of-two-sorted-arrays)
 
 * 哈希表
     * [1418.点菜展示表](hashTable/lt-1418-display-table-of-food-orders-in-a-restaurant)
     * [957.N天后的牢房](hashTable/lt-957-prison-cells-after-n-days)
     * [1.两数之和](hashTable/lt-1-two-sum)
+    * [974.和可被K整除的子数组](hashTable/lt-974-subarray-sums-divisible-by-k)
 
 * 拓扑排序
     * [210.课程表II](topologicalSort/lt-210-course-schedule-ii)
