@@ -15,6 +15,7 @@
     * [983.最低票价](dynamicPG/lt-983-minimum-cost-for-tickets)
     * [221.最大正方形](dynamicPG/lt-221-maximal-square)
     * [152.乘积最大子数组](dynamicPG/lt-152-maximum-product-subarray)
+    * [198.打家劫舍](dynamicPG/lt-198-house-robber)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
@@ -41,6 +42,7 @@
     * [面试题51.数组中的逆序对](dfsOrBfs/mst-51-shu-zu-zhong-de-ni-xu-dui-lcof)
     * [46.全排列](dfsOrBfs/lt-46-permutations)
     * [面试题14-I.剪绳子](dfsOrBfs/mst-14-I-jian-sheng-zi-lcof)
+    * [394.字符串解码](dfsOrBfs/lt-394-decode-string)
 
 * 贪心
     * [55.跳跃游戏](greedy/lt-55-jump-game)
@@ -119,6 +121,7 @@
     * [94.二叉树的中序遍历](tree/lt-94-binary-tree-inorder-traversal)
     * [145.二叉树的后序遍历](tree/lt-145-binary-tree-postorder-traversal)
     * [105.从前序与中序遍历序列构造二叉树](tree/lt-105-construct-binary-tree-from-preorder-and-inorder-traversal)
+    * [101.对称二叉树](tree/lt-101-symmetric-tree)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
