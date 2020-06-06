@@ -48,6 +48,7 @@
     * [55.跳跃游戏](greedy/lt-55-jump-game)
     * [45.跳跃游戏II](greedy/lt-45-jump-game-ii)
     * [122.买卖股票的最佳时机 II](greedy/lt-122-best-time-to-buy-and-sell-stock-ii)
+    * [1111.有效括号的嵌套深度](greedy/lt-1111-maximum-nesting-depth-of-two-valid-parentheses-strings)
 
 * 并查集
     * [128.最长连续序列](unionFind/lt-128-longest-consecutive-sequence)
@@ -86,6 +87,7 @@
     * [面试题02.06.回文链表](linkedlist/mst-02-06-palindrome-linked-list-lcci)
     * [206.反转链表](linkedlist/lt-206-reverse-linked-list)
     * [2.两数相加](linkedlist/lt-2-add-two-numbers)
+    * [21.合并两个有序链表](linkedlist/lt-21-merge-two-sorted-lists)
 
 * 数学
     * [507.完美数](math/lt-507-perfect-number)
@@ -97,6 +99,7 @@
     * [面试题56-I.数组中数字出现的次数](bitOperation/mst-56-I-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof)
     * [397.整数替换](bitOperation/lt-397-integer-replacement)
     * [1442.形成两个异或相等数组的三元组数目](bitOperation/lt-1442-count-triplets-that-can-form-two-arrays-of-equal-xor)
+    * [136.只出现一次的数字](bitOperation/lt-136-single-number)
 
 * 排序
     * [912.排序数组](sort/lt-912-sort-an-array)
