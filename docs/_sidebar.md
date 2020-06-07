@@ -62,15 +62,18 @@
     * [485.最大连续1的个数](array/lt-485-max-consecutive-ones)
     * [41.缺失的第一个正数](array/lt-41-first-missing-positive)
     * [560.和为K的子数组](array/lt-560-subarray-sum-equals-k)
+    * [289.生命游戏](array/lt-289-game-of-life)
 
 * 栈
     * [150.逆波兰表达式求值](stack/lt-150-evaluate-reverse-polish-notation)
     * [224.基本计算器](stack/lt-224-basic-calculator)
     * [84.柱状图中最大的矩形](stack/lt-84-largest-rectangle-in-histogram)
     * [739.每日温度](stack/lt-739-daily-temperatures)
+    * [面试题59-II.队列的最大值](stack/mst-59-II-dui-lie-de-zui-da-zhi-lcof)
 
 * 堆
     * [23.合并K个排序链表](heap/lt-23-merge-k-sorted-lists)
+    * [面试题40.最小的k个数](heap/mst-40-zui-xiao-de-kge-shu-lcof)
 
 * 链表
     * [142.环形链表II](linkedlist/lt-142-linked-list-cycle-ii)
@@ -93,6 +96,7 @@
     * [507.完美数](math/lt-507-perfect-number)
     * [50.Pow(x, n)](math/lt-50-powx-n)
     * [7.整数反转](math/lt-7-reverse-integer)
+    * [面试题62.圆圈中最后剩下的数字](math/mst-62-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof)
 
 * 位运算
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
@@ -141,6 +145,7 @@
     * [957.N天后的牢房](hashTable/lt-957-prison-cells-after-n-days)
     * [1.两数之和](hashTable/lt-1-two-sum)
     * [974.和可被K整除的子数组](hashTable/lt-974-subarray-sums-divisible-by-k)
+    * [202.快乐数](hashTable/lt-202-happy-number)
 
 * 拓扑排序
     * [210.课程表II](topologicalSort/lt-210-course-schedule-ii)
