@@ -16,6 +16,7 @@
     * [221.最大正方形](dynamicPG/lt-221-maximal-square)
     * [152.乘积最大子数组](dynamicPG/lt-152-maximum-product-subarray)
     * [198.打家劫舍](dynamicPG/lt-198-house-robber)
+    * [300.最长上升子序列](dynamicPG/lt-300-longest-increasing-subsequence)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
@@ -49,9 +50,11 @@
     * [45.跳跃游戏II](greedy/lt-45-jump-game-ii)
     * [122.买卖股票的最佳时机 II](greedy/lt-122-best-time-to-buy-and-sell-stock-ii)
     * [1111.有效括号的嵌套深度](greedy/lt-1111-maximum-nesting-depth-of-two-valid-parentheses-strings)
+    * [409.最长回文串](greedy/lt-409-longest-palindrome)
 
 * 并查集
     * [128.最长连续序列](unionFind/lt-128-longest-consecutive-sequence)
+    * [990.等式方程的可满足性](unionFind/lt-990-satisfiability-of-equality-equations)
 
 * 数组
     * [面试题 01.07.旋转矩阵](array/mst-01-07-rotate-matrix-lcci)
@@ -63,6 +66,7 @@
     * [41.缺失的第一个正数](array/lt-41-first-missing-positive)
     * [560.和为K的子数组](array/lt-560-subarray-sum-equals-k)
     * [289.生命游戏](array/lt-289-game-of-life)
+    * [169.多数元素](array/lt-169-majority-element)
 
 * 栈
     * [150.逆波兰表达式求值](stack/lt-150-evaluate-reverse-polish-notation)
@@ -97,6 +101,7 @@
     * [50.Pow(x, n)](math/lt-50-powx-n)
     * [7.整数反转](math/lt-7-reverse-integer)
     * [面试题62.圆圈中最后剩下的数字](math/mst-62-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof)
+    * [365.水壶问题](math/lt-365-water-and-jug-problem)
 
 * 位运算
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
