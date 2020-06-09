@@ -17,6 +17,7 @@
     * [152.乘积最大子数组](dynamicPG/lt-152-maximum-product-subarray)
     * [198.打家劫舍](dynamicPG/lt-198-house-robber)
     * [300.最长上升子序列](dynamicPG/lt-300-longest-increasing-subsequence)
+    * [面试题46.把数字翻译成字符串](dynamicPG/mst-46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
@@ -44,6 +45,7 @@
     * [46.全排列](dfsOrBfs/lt-46-permutations)
     * [面试题14-I.剪绳子](dfsOrBfs/mst-14-I-jian-sheng-zi-lcof)
     * [394.字符串解码](dfsOrBfs/lt-394-decode-string)
+    * [695.岛屿的最大面积](dfsOrBfs/lt-695-max-area-of-island)
 
 * 贪心
     * [55.跳跃游戏](greedy/lt-55-jump-game)
@@ -95,6 +97,7 @@
     * [206.反转链表](linkedlist/lt-206-reverse-linked-list)
     * [2.两数相加](linkedlist/lt-2-add-two-numbers)
     * [21.合并两个有序链表](linkedlist/lt-21-merge-two-sorted-lists)
+    * [876.链表的中间结点](linkedlist/lt-876-middle-of-the-linked-list)
 
 * 数学
     * [507.完美数](math/lt-507-perfect-number)
@@ -102,6 +105,8 @@
     * [7.整数反转](math/lt-7-reverse-integer)
     * [面试题62.圆圈中最后剩下的数字](math/mst-62-yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof)
     * [365.水壶问题](math/lt-365-water-and-jug-problem)
+    * [836.矩形重叠](math/lt-836-rectangle-overlap)
+    * [892.三维形体的表面积](math/lt-892-surface-area-of-3d-shapes)
 
 * 位运算
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
@@ -112,6 +117,9 @@
 
 * 排序
     * [912.排序数组](sort/lt-912-sort-an-array)
+
+* 字典树
+    * [820.单词的压缩编码](trie/lt-820-short-encoding-of-words)
 
 * 字符串
     * [151.翻转字符串里的单词](string/lt-151-reverse-words-in-a-string)
