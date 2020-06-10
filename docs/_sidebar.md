@@ -107,6 +107,8 @@
     * [365.水壶问题](math/lt-365-water-and-jug-problem)
     * [836.矩形重叠](math/lt-836-rectangle-overlap)
     * [892.三维形体的表面积](math/lt-892-surface-area-of-3d-shapes)
+    * [9.回文数](math/lt-9-palindrome-number)
+    * [914.卡牌分组](math/lt-914-x-of-a-kind-in-a-deck-of-cards)
 
 * 位运算
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
@@ -126,6 +128,7 @@
     * [28.实现strStr()](string/lt-28-implement-strstr)
     * [680.验证回文字符串Ⅱ](string/lt-680-valid-palindrome-ii)
     * [1371.每个元音包含偶数次的最长子字符串](string/lt-1371-find-the-longest-substring-containing-vowels-in-even-counts)
+    * [面试题01.06.字符串压缩](string/mst-01-06-compress-string-lcci)
 
 * 树
     * [543.二叉树的直径](tree/lt-543-diameter-of-binary-tree)
