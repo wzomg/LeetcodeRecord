@@ -18,6 +18,7 @@
     * [198.打家劫舍](dynamicPG/lt-198-house-robber)
     * [300.最长上升子序列](dynamicPG/lt-300-longest-increasing-subsequence)
     * [面试题46.把数字翻译成字符串](dynamicPG/mst-46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof)
+    * [面试题17.16.按摩师](dynamicPG/mst-17-16-the-masseuse-lcci)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
@@ -34,6 +35,7 @@
     * [76.最小覆盖子串](twoPointers/lt-76-minimum-window-substring)
     * [18.四数之和](twoPointers/lt-18-4sum)
     * [287.寻找重复数](twoPointers/lt-287-find-the-duplicate-number)
+    * [面试题10.01.合并排序的数组](twoPointers/mst-10-01-sorted-merge-lcci)
 
 * 深度/广度优先搜索
     * [面试题13.机器人的运动范围](dfsOrBfs/mst-13-ji-qi-ren-de-yun-dong-fan-wei-lcof)
@@ -46,6 +48,9 @@
     * [面试题14-I.剪绳子](dfsOrBfs/mst-14-I-jian-sheng-zi-lcof)
     * [394.字符串解码](dfsOrBfs/lt-394-decode-string)
     * [695.岛屿的最大面积](dfsOrBfs/lt-695-max-area-of-island)
+    * [1162.地图分析](dfsOrBfs/lt-1162-as-far-from-land-as-possible)
+    * [999.可以被一步捕获的棋子数](dfsOrBfs/lt-999-available-captures-for-rook)
+    * [994.腐烂的橘子](dfsOrBfs/lt-994-rotting-oranges)
 
 * 贪心
     * [55.跳跃游戏](greedy/lt-55-jump-game)
@@ -69,6 +74,8 @@
     * [560.和为K的子数组](array/lt-560-subarray-sum-equals-k)
     * [289.生命游戏](array/lt-289-game-of-life)
     * [169.多数元素](array/lt-169-majority-element)
+    * [1160.拼写单词](array/lt-1160-find-words-that-can-be-formed-by-characters)
+    * [1013.将数组分成和相等的三个部分](array/lt-1013-partition-array-into-three-parts-with-equal-sum)
 
 * 栈
     * [150.逆波兰表达式求值](stack/lt-150-evaluate-reverse-polish-notation)
@@ -109,6 +116,8 @@
     * [892.三维形体的表面积](math/lt-892-surface-area-of-3d-shapes)
     * [9.回文数](math/lt-9-palindrome-number)
     * [914.卡牌分组](math/lt-914-x-of-a-kind-in-a-deck-of-cards)
+    * [1103.分糖果II](math/lt-1103-II-distribute-candies-to-people)
+    * [1071.字符串的最大公因子](math/lt-1071-greatest-common-divisor-of-strings)
 
 * 位运算
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
@@ -155,6 +164,7 @@
     * [69.x的平方根](binarySearch/lt-69-sqrtx)
     * [LCP08.剧情触发时间](binarySearch/lt-lcp-08-ju-qing-hong-fa-shi-jian)
     * [4.寻找两个正序数组的中位数](binarySearch/lt-4-median-of-two-sorted-arrays)
+    * [1300.转变数组后最接近目标值的数组和](binarySearch/lt-1300-sum-of-mutated-array-closest-to-target)
 
 * 哈希表
     * [1418.点菜展示表](hashTable/lt-1418-display-table-of-food-orders-in-a-restaurant)
