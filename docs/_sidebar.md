@@ -83,6 +83,7 @@
     * [84.柱状图中最大的矩形](stack/lt-84-largest-rectangle-in-histogram)
     * [739.每日温度](stack/lt-739-daily-temperatures)
     * [面试题59-II.队列的最大值](stack/mst-59-II-dui-lie-de-zui-da-zhi-lcof)
+    * [20.有效的括号](stack/lt-20-valid-parentheses)
 
 * 堆
     * [23.合并K个排序链表](heap/lt-23-merge-k-sorted-lists)
@@ -138,6 +139,7 @@
     * [680.验证回文字符串Ⅱ](string/lt-680-valid-palindrome-ii)
     * [1371.每个元音包含偶数次的最长子字符串](string/lt-1371-find-the-longest-substring-containing-vowels-in-even-counts)
     * [面试题01.06.字符串压缩](string/mst-01-06-compress-string-lcci)
+    * [14.最长公共前缀](string/lt-14-longest-common-prefix)
 
 * 树
     * [543.二叉树的直径](tree/lt-543-diameter-of-binary-tree)
@@ -182,4 +184,5 @@
     * [355.设计推特](design/lt-355-design-twitter)
     * [155.最小栈](design/lt-155-min-stack)
     * [225.用队列实现栈](design/lt-225-implement-stack-using-queues)
+    * [297.二叉树的序列化与反序列化](design/lt-297-serialize-and-deserialize-binary-tree)
 
