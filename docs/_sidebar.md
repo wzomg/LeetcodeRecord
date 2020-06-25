@@ -19,6 +19,7 @@
     * [300.最长上升子序列](dynamicPG/lt-300-longest-increasing-subsequence)
     * [面试题46.把数字翻译成字符串](dynamicPG/mst-46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof)
     * [面试题17.16.按摩师](dynamicPG/mst-17-16-the-masseuse-lcci)
+    * [139.单词拆分](dynamicPG/lt-139-word-break)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
@@ -36,6 +37,7 @@
     * [18.四数之和](twoPointers/lt-18-4sum)
     * [287.寻找重复数](twoPointers/lt-287-find-the-duplicate-number)
     * [面试题10.01.合并排序的数组](twoPointers/mst-10-01-sorted-merge-lcci)
+    * [125.验证回文串](twoPointers/lt-125-valid-palindrome)
 
 * 深度/广度优先搜索
     * [面试题13.机器人的运动范围](dfsOrBfs/mst-13-ji-qi-ren-de-yun-dong-fan-wei-lcof)
@@ -76,6 +78,7 @@
     * [169.多数元素](array/lt-169-majority-element)
     * [1160.拼写单词](array/lt-1160-find-words-that-can-be-formed-by-characters)
     * [1013.将数组分成和相等的三个部分](array/lt-1013-partition-array-into-three-parts-with-equal-sum)
+    * [1014.最佳观光组合](array/lt-1014-best-sightseeing-pair)
 
 * 栈
     * [150.逆波兰表达式求值](stack/lt-150-evaluate-reverse-polish-notation)
