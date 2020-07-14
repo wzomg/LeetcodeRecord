@@ -20,6 +20,8 @@
     * [面试题46.把数字翻译成字符串](dynamicPG/mst-46-ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof)
     * [面试题17.16.按摩师](dynamicPG/mst-17-16-the-masseuse-lcci)
     * [139.单词拆分](dynamicPG/lt-139-word-break)
+    * [718.最长重复子数组](dynamicPG/lt-718-maximum-length-of-repeated-subarray)
+    * [120.三角形最小路径和](dynamicPG/lt-120-triangle)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
@@ -60,6 +62,7 @@
     * [122.买卖股票的最佳时机 II](greedy/lt-122-best-time-to-buy-and-sell-stock-ii)
     * [1111.有效括号的嵌套深度](greedy/lt-1111-maximum-nesting-depth-of-two-valid-parentheses-strings)
     * [409.最长回文串](greedy/lt-409-longest-palindrome)
+    * [32.最长有效括号](greedy/lt-32-longest-valid-parentheses)
 
 * 并查集
     * [128.最长连续序列](unionFind/lt-128-longest-consecutive-sequence)
@@ -91,6 +94,7 @@
 * 堆
     * [23.合并K个排序链表](heap/lt-23-merge-k-sorted-lists)
     * [面试题40.最小的k个数](heap/mst-40-zui-xiao-de-kge-shu-lcof)
+    * [378.有序矩阵中第K小的元素](heap/lt-378-kth-smallest-element-in-a-sorted-matrix)
 
 * 链表
     * [142.环形链表II](linkedlist/lt-142-linked-list-cycle-ii)
@@ -159,6 +163,7 @@
     * [145.二叉树的后序遍历](tree/lt-145-binary-tree-postorder-traversal)
     * [105.从前序与中序遍历序列构造二叉树](tree/lt-105-construct-binary-tree-from-preorder-and-inorder-traversal)
     * [101.对称二叉树](tree/lt-101-symmetric-tree)
+    * [108.将有序数组转换为二叉搜索树](tree/lt-108-convert-sorted-array-to-binary-search-tree)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
