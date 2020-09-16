@@ -10,6 +10,7 @@
     * [5.最长回文子串](dynamicPG/lt-5-longest-palindromic-substring)
     * [53.最大子序和](dynamicPG/lt-53-maximum-subarray)
     * [1262.可被三整除的最大和](dynamicPG/lt-1262-greatest-sum-divisible-by-three)
+    * [121.买卖股票的最佳时机](dynamicPG/lt-121-best-time-to-buy-and-sell-stock)
     * [123.买卖股票的最佳时机III](dynamicPG/lt-123-best-time-to-buy-and-sell-stock-iii)
     * [188.买卖股票的最佳时机IV](dynamicPG/lt-188-best-time-to-buy-and-sell-stock-iv)
     * [983.最低票价](dynamicPG/lt-983-minimum-cost-for-tickets)
@@ -55,11 +56,12 @@
     * [1162.地图分析](dfsOrBfs/lt-1162-as-far-from-land-as-possible)
     * [999.可以被一步捕获的棋子数](dfsOrBfs/lt-999-available-captures-for-rook)
     * [994.腐烂的橘子](dfsOrBfs/lt-994-rotting-oranges)
+    * [51.N皇后](dfsOrBfs/lt-51-n-queens)
 
 * 贪心
     * [55.跳跃游戏](greedy/lt-55-jump-game)
     * [45.跳跃游戏II](greedy/lt-45-jump-game-ii)
-    * [122.买卖股票的最佳时机 II](greedy/lt-122-best-time-to-buy-and-sell-stock-ii)
+    * [122.买卖股票的最佳时机II](greedy/lt-122-best-time-to-buy-and-sell-stock-ii)
     * [1111.有效括号的嵌套深度](greedy/lt-1111-maximum-nesting-depth-of-two-valid-parentheses-strings)
     * [409.最长回文串](greedy/lt-409-longest-palindrome)
     * [32.最长有效括号](greedy/lt-32-longest-valid-parentheses)
@@ -164,6 +166,7 @@
     * [105.从前序与中序遍历序列构造二叉树](tree/lt-105-construct-binary-tree-from-preorder-and-inorder-traversal)
     * [101.对称二叉树](tree/lt-101-symmetric-tree)
     * [108.将有序数组转换为二叉搜索树](tree/lt-108-convert-sorted-array-to-binary-search-tree)
+    * [226.翻转二叉树](tree/lt-226-invert-binary-tree)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
@@ -182,6 +185,7 @@
     * [1.两数之和](hashTable/lt-1-two-sum)
     * [974.和可被K整除的子数组](hashTable/lt-974-subarray-sums-divisible-by-k)
     * [202.快乐数](hashTable/lt-202-happy-number)
+    * [350.两个数组的交集II](hashTable/lt-350-II-intersection-of-two-arrays-ii)
 
 * 拓扑排序
     * [210.课程表II](topologicalSort/lt-210-course-schedule-ii)
@@ -193,4 +197,3 @@
     * [155.最小栈](design/lt-155-min-stack)
     * [225.用队列实现栈](design/lt-225-implement-stack-using-queues)
     * [297.二叉树的序列化与反序列化](design/lt-297-serialize-and-deserialize-binary-tree)
-

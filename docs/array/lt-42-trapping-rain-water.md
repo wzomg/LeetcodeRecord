@@ -26,7 +26,7 @@ class Solution {
             // 正向遍历取等号，反向遍历就不用，否则会重复计算
 			if (height[i] >= preMax) { 
 				ans += (i - 1 - preIndex) * preMax;
-                // 注意：若 i == 0，则应取 sum[preIndex]，否则取 sum[i - 1]
+                // 注意：若 i == 0，则应取 sum[preIndex]，不能直接取0（相减会变成负数），否则取 sum[i - 1]
 				ans -= (i - 1 >= 0 ? sum[i - 1] : sum[preIndex]) - sum[preIndex];
 				preMax = height[i];
 				preIndex = i;
@@ -37,7 +37,7 @@ class Solution {
 		// 从右往左
 		for (int i = len - 1; i >= 0; i--) {
 			sum[i] = (i + 1 < len ? sum[i + 1] : 0) + height[i];
-            // 反向遍历就不用取等号
+            // 反向遍历就不用取等号，不然会重复计算值
 			if (height[i] > preMax) {
 				ans += (preIndex - 1 - i) * preMax;
 				ans -= (i + 1 < len ? sum[i + 1] : sum[preIndex]) - sum[preIndex];

@@ -56,6 +56,7 @@ class Solution {
 			// 归位指针，继续遍历
 			cur = tmp;
 		}
+		// 连接剩下链表的头节点
 		dummyCur.next = cur;
 		return dummyHead.next;
 	}

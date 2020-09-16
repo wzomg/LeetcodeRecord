@@ -1,4 +1,4 @@
-![logo](./_media/book.svg)
+![logo](./_media/note.svg)
 
 # 我的 LeetCode 刷题之路
 
