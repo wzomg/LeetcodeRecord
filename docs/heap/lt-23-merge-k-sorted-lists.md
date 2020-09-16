@@ -1,10 +1,11 @@
-# 23.合并K个排序链表
+# 23.合并K个升序链表
 题目链接：[传送门](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 
 ## 题目描述：
-合并`k`个排序链表，返回合并后的排序链表。请分析和描述算法的复杂度。
+合并`k`个升序链表，返回合并后的排序链表。请分析和描述算法的复杂度。
 
 **示例**：
+
 - 输入:
 `[
   1->4->5,
@@ -39,7 +40,7 @@ class Solution {
 		}
 		while (!queue.isEmpty()) {
 			small = queue.poll(); // 将整个链表出队
-			cur.next = small; // 避免的申请节点所花费的时间
+			cur.next = small; // 不用申请新的节点
 			if (small.next != null)
 				queue.add(small.next);
 			cur = cur.next;

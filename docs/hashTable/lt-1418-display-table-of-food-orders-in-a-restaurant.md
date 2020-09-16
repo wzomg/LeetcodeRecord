@@ -8,8 +8,8 @@
 
 **注意**：客户姓名不是点菜展示表的一部分。此外，表中的数据行应该按餐桌桌号**升序排列**。
 
-
 **提示**：
+
 - $ 1 \leq $ `orders.length` $ \leq 5 \times 10^4 $
 - `orders[i].length == 3`
 - $ 1 \leq customerName_i.length, foodItem_i.length \leq 20$

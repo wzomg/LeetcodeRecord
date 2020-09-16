@@ -23,6 +23,7 @@
     * [139.单词拆分](dynamicPG/lt-139-word-break)
     * [718.最长重复子数组](dynamicPG/lt-718-maximum-length-of-repeated-subarray)
     * [120.三角形最小路径和](dynamicPG/lt-120-triangle)
+    * [70.爬楼梯](dynamicPG/lt-70-climbing-stairs)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
@@ -57,6 +58,7 @@
     * [999.可以被一步捕获的棋子数](dfsOrBfs/lt-999-available-captures-for-rook)
     * [994.腐烂的橘子](dfsOrBfs/lt-994-rotting-oranges)
     * [51.N皇后](dfsOrBfs/lt-51-n-queens)
+    * [93.复原IP地址](dfsOrBfs/lt-93-restore-ip-addresses)
 
 * 贪心
     * [55.跳跃游戏](greedy/lt-55-jump-game)
@@ -94,7 +96,7 @@
     * [20.有效的括号](stack/lt-20-valid-parentheses)
 
 * 堆
-    * [23.合并K个排序链表](heap/lt-23-merge-k-sorted-lists)
+    * [23.合并K个升序链表](heap/lt-23-merge-k-sorted-lists)
     * [面试题40.最小的k个数](heap/mst-40-zui-xiao-de-kge-shu-lcof)
     * [378.有序矩阵中第K小的元素](heap/lt-378-kth-smallest-element-in-a-sorted-matrix)
 
@@ -138,6 +140,7 @@
 
 * 排序
     * [912.排序数组](sort/lt-912-sort-an-array)
+    * [215.数组中的第K个最大元素](sort/lt-215-kth-largest-element-in-an-array)
 
 * 字典树
     * [820.单词的压缩编码](trie/lt-820-short-encoding-of-words)

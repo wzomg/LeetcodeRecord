@@ -7,6 +7,7 @@
 若队列为空，`pop_front`和`max_value`需要返回`-1`。
 
 **示例**：
+
 - 输入: 
 ```
 ["MaxQueue","push_back","push_back","max_value","pop_front","max_value"]

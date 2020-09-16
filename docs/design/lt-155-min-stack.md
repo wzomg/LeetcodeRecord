@@ -13,16 +13,16 @@
 
 **示例**:
 
-- **输入**：
+- 输入：
 
 ```
 ["MinStack","push","push","push","getMin","pop","top","getMin"]
 [[],[-2],[0],[-3],[],[],[],[]]
 ```
 
-- **输出**：`[null,null,null,null,-3,null,0,-2]`
+- 输出：`[null,null,null,null,-3,null,0,-2]`
 
-- **解释**：
+- 解释：
 
 ```
 MinStack minStack = new MinStack();

@@ -7,11 +7,13 @@
 返回最长字符串`X`，要求满足`X`能除尽`str1`且`X`能除尽`str2`。
 
 **提示**：
+
 - $1 \leq$ `str1.length` $ \leq 1000$
 - $1 \leq$ `str2.length` $\leq 1000$
 - `str1[i]` 和 `str2[i]` 为大写英文字母
 
 **示例**：
+
 - 输入：`str1 = "ABCABC", str2 = "ABC"`
 - 输出：`"ABC"`
 
