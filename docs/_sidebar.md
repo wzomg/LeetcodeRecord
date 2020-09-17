@@ -71,6 +71,8 @@
 * 并查集
     * [128.最长连续序列](unionFind/lt-128-longest-consecutive-sequence)
     * [990.等式方程的可满足性](unionFind/lt-990-satisfiability-of-equality-equations)
+    * [684.冗余连接](unionFind/lt-684-redundant-connection)
+    * [685.冗余连接II](unionFind/lt-685-redundant-connection-ii)
 
 * 数组
     * [面试题 01.07.旋转矩阵](array/mst-01-07-rotate-matrix-lcci)
@@ -130,6 +132,7 @@
     * [914.卡牌分组](math/lt-914-x-of-a-kind-in-a-deck-of-cards)
     * [1103.分糖果II](math/lt-1103-II-distribute-candies-to-people)
     * [1071.字符串的最大公因子](math/lt-1071-greatest-common-divisor-of-strings)
+    * [1017.负二进制转换](math/lt-1017-convert-to-base-2)
 
 * 位运算
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
