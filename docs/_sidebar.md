@@ -59,6 +59,7 @@
     * [994.腐烂的橘子](dfsOrBfs/lt-994-rotting-oranges)
     * [51.N皇后](dfsOrBfs/lt-51-n-queens)
     * [93.复原IP地址](dfsOrBfs/lt-93-restore-ip-addresses)
+    * [47.全排列II](dfsOrBfs/lt-47-permutations-ii)
 
 * 贪心
     * [55.跳跃游戏](greedy/lt-55-jump-game)
@@ -144,6 +145,7 @@
 * 排序
     * [912.排序数组](sort/lt-912-sort-an-array)
     * [215.数组中的第K个最大元素](sort/lt-215-kth-largest-element-in-an-array)
+    * [148.排序链表](sort/lt-148-sort-list)
 
 * 字典树
     * [820.单词的压缩编码](trie/lt-820-short-encoding-of-words)
@@ -173,6 +175,7 @@
     * [101.对称二叉树](tree/lt-101-symmetric-tree)
     * [108.将有序数组转换为二叉搜索树](tree/lt-108-convert-sorted-array-to-binary-search-tree)
     * [226.翻转二叉树](tree/lt-226-invert-binary-tree)
+    * [124.二叉树中的最大路径和](tree/lt-124-binary-tree-maximum-path-sum)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
