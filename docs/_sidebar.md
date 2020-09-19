@@ -89,6 +89,8 @@
     * [1160.拼写单词](array/lt-1160-find-words-that-can-be-formed-by-characters)
     * [1013.将数组分成和相等的三个部分](array/lt-1013-partition-array-into-three-parts-with-equal-sum)
     * [1014.最佳观光组合](array/lt-1014-best-sightseeing-pair)
+    * [1572.矩阵对角线元素的和](array/lt-1572-matrix-diagonal-sum)
+    * [54.螺旋矩阵](array/lt-54-spiral-matrix)
 
 * 栈
     * [150.逆波兰表达式求值](stack/lt-150-evaluate-reverse-polish-notation)
@@ -176,6 +178,7 @@
     * [108.将有序数组转换为二叉搜索树](tree/lt-108-convert-sorted-array-to-binary-search-tree)
     * [226.翻转二叉树](tree/lt-226-invert-binary-tree)
     * [124.二叉树中的最大路径和](tree/lt-124-binary-tree-maximum-path-sum)
+    * [404.左叶子之和](tree/lt-404-sum-of-left-leaves)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
