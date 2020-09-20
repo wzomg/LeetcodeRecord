@@ -99,6 +99,7 @@
     * [739.每日温度](stack/lt-739-daily-temperatures)
     * [面试题59-II.队列的最大值](stack/mst-59-II-dui-lie-de-zui-da-zhi-lcof)
     * [20.有效的括号](stack/lt-20-valid-parentheses)
+    * [1541.平衡括号字符串的最少插入次数](stack/lt-1541-minimum-insertions-to-balance-a-parentheses-string)
 
 * 堆
     * [23.合并K个升序链表](heap/lt-23-merge-k-sorted-lists)
@@ -136,6 +137,7 @@
     * [1103.分糖果II](math/lt-1103-II-distribute-candies-to-people)
     * [1071.字符串的最大公因子](math/lt-1071-greatest-common-divisor-of-strings)
     * [1017.负二进制转换](math/lt-1017-convert-to-base-2)
+    * [223.矩形面积](math/lt-223-rectangle-area)
 
 * 位运算
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
@@ -143,6 +145,8 @@
     * [397.整数替换](bitOperation/lt-397-integer-replacement)
     * [1442.形成两个异或相等数组的三元组数目](bitOperation/lt-1442-count-triplets-that-can-form-two-arrays-of-equal-xor)
     * [136.只出现一次的数字](bitOperation/lt-136-single-number)
+    * [78.子集](bitOperation/lt-78-subsets)
+    * [面试题56-II.数组中数字出现的次数II](bitOperation/mst-56-II-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof)
 
 * 排序
     * [912.排序数组](sort/lt-912-sort-an-array)
