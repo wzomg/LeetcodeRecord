@@ -24,6 +24,7 @@
     * [718.最长重复子数组](dynamicPG/lt-718-maximum-length-of-repeated-subarray)
     * [120.三角形最小路径和](dynamicPG/lt-120-triangle)
     * [70.爬楼梯](dynamicPG/lt-70-climbing-stairs)
+    * [10.正则表达式匹配](dynamicPG/lt-10-regular-expression-matching)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
@@ -138,6 +139,7 @@
     * [1071.字符串的最大公因子](math/lt-1071-greatest-common-divisor-of-strings)
     * [1017.负二进制转换](math/lt-1017-convert-to-base-2)
     * [223.矩形面积](math/lt-223-rectangle-area)
+    * [面试题49.丑数](math/mst-49-chou-shu-lcof)
 
 * 位运算
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
@@ -183,6 +185,7 @@
     * [226.翻转二叉树](tree/lt-226-invert-binary-tree)
     * [124.二叉树中的最大路径和](tree/lt-124-binary-tree-maximum-path-sum)
     * [404.左叶子之和](tree/lt-404-sum-of-left-leaves)
+    * [538.把二叉搜索树转换为累加树](tree/lt-538-convert-bst-to-greater-tree)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
