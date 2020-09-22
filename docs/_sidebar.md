@@ -25,6 +25,7 @@
     * [120.三角形最小路径和](dynamicPG/lt-120-triangle)
     * [70.爬楼梯](dynamicPG/lt-70-climbing-stairs)
     * [10.正则表达式匹配](dynamicPG/lt-10-regular-expression-matching)
+    * [213.打家劫舍II](dynamicPG/lt-213-house-robber-ii)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
@@ -43,6 +44,7 @@
     * [287.寻找重复数](twoPointers/lt-287-find-the-duplicate-number)
     * [面试题10.01.合并排序的数组](twoPointers/mst-10-01-sorted-merge-lcci)
     * [125.验证回文串](twoPointers/lt-125-valid-palindrome)
+    * [88.合并两个有序数组](twoPointers/lt-88-merge-sorted-array)
 
 * 深度/广度优先搜索
     * [面试题13.机器人的运动范围](dfsOrBfs/mst-13-ji-qi-ren-de-yun-dong-fan-wei-lcof)
@@ -124,6 +126,7 @@
     * [2.两数相加](linkedlist/lt-2-add-two-numbers)
     * [21.合并两个有序链表](linkedlist/lt-21-merge-two-sorted-lists)
     * [876.链表的中间结点](linkedlist/lt-876-middle-of-the-linked-list)
+    * [19.删除链表的倒数第N个节点](linkedlist/lt-19-remove-nth-node-from-end-of-list)
 
 * 数学
     * [507.完美数](math/lt-507-perfect-number)
@@ -140,6 +143,7 @@
     * [1017.负二进制转换](math/lt-1017-convert-to-base-2)
     * [223.矩形面积](math/lt-223-rectangle-area)
     * [面试题49.丑数](math/mst-49-chou-shu-lcof)
+    * [119.杨辉三角II](math/lt-119-pascals-triangle-ii)
 
 * 位运算
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
@@ -186,6 +190,9 @@
     * [124.二叉树中的最大路径和](tree/lt-124-binary-tree-maximum-path-sum)
     * [404.左叶子之和](tree/lt-404-sum-of-left-leaves)
     * [538.把二叉搜索树转换为累加树](tree/lt-538-convert-bst-to-greater-tree)
+    * [968.监控二叉树](tree/lt-968-binary-tree-cameras)
+    * [103.二叉树的锯齿形层次遍历](tree/lt-103-binary-tree-zigzag-level-order-traversal)
+    * [337.打家劫舍III](tree/lt-337-house-robber-iii)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)

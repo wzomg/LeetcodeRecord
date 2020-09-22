@@ -25,7 +25,7 @@ class Solution {
 			return null;
 		// 虚拟2个头节点，便于操作
 		ListNode cur = head, resHead = new ListNode(-1), pre1 = resHead;
-		// dummyHead 时刻指向第 n 至 m 个节点反转后的虚拟头节点
+		// dummyHead 时刻指向第 m 至 n 个节点反转后的虚拟头节点
 		ListNode dummyHead = new ListNode(0), pre2 = dummyHead, tmp1, tmp2;
 		int pos = 0;
 		while (cur != null) {

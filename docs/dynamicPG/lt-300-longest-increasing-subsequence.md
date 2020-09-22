@@ -7,6 +7,7 @@
 **说明**:
 
 可能会有多种最长上升子序列的组合，你只需要输出对应的长度即可。
+
 你算法的时间复杂度应该为 $O(n^2)$ 。
 
 **进阶**: 你能将算法的时间复杂度降低到 $O(n \times log^n)$ 吗?
@@ -35,6 +36,7 @@ class Solution {
 		int lt = 0, rt = len - 1, mid, res = len; // 找不到符合条件默认返回数组长度len，实际上一定找得到，只要给的数组元素都不大于 INF 
 		while (lt <= rt) {
 			mid = (lt + rt) >> 1;
+			// 找更小的 mid 
 			if (dp[mid] >= x) {
 				rt = mid - 1;
 				res = mid;
