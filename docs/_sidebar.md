@@ -45,6 +45,7 @@
     * [面试题10.01.合并排序的数组](twoPointers/mst-10-01-sorted-merge-lcci)
     * [125.验证回文串](twoPointers/lt-125-valid-palindrome)
     * [88.合并两个有序数组](twoPointers/lt-88-merge-sorted-array)
+    * [141.环形链表](twoPointers/lt-141-linked-list-cycle)
 
 * 深度/广度优先搜索
     * [面试题13.机器人的运动范围](dfsOrBfs/mst-13-ji-qi-ren-de-yun-dong-fan-wei-lcof)
@@ -193,6 +194,9 @@
     * [968.监控二叉树](tree/lt-968-binary-tree-cameras)
     * [103.二叉树的锯齿形层次遍历](tree/lt-103-binary-tree-zigzag-level-order-traversal)
     * [337.打家劫舍III](tree/lt-337-house-robber-iii)
+    * [617.合并二叉树](tree/lt-617-merge-two-binary-trees)
+    * [112.路径总和](tree/lt-112-path-sum)
+    * [104.二叉树的最大深度](tree/lt-104-maximum-depth-of-binary-tree)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
