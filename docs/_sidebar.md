@@ -32,6 +32,7 @@
     * [167.两数之和II-输入有序数组](twoPointers/lt-167-two-sum-ii-input-array-is-sorted)
     * [面试题48.最长不含重复字符的子字符串](twoPointers/mst-48-zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof)
     * [26.删除排序数组中的重复项](twoPointers/lt-26-remove-duplicates-from-sorted-array)
+    * [80.删除排序数组中的重复项II](twoPointers/lt-80-remove-duplicates-from-sorted-array-ii)
     * [11.盛最多水的容器](twoPointers/lt-11-container-with-most-water)
     * [1248.统计「优美子数组」](twoPointers/lt-1248-count-number-of-nice-subarrays)
     * [75.颜色分类](twoPointers/lt-75-sort-colors)
@@ -197,6 +198,7 @@
     * [617.合并二叉树](tree/lt-617-merge-two-binary-trees)
     * [112.路径总和](tree/lt-112-path-sum)
     * [104.二叉树的最大深度](tree/lt-104-maximum-depth-of-binary-tree)
+    * [501.二叉搜索树中的众数](tree/lt-501-find-mode-in-binary-search-tree)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)

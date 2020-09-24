@@ -10,7 +10,7 @@
 
 **提示**：
 
-- 链表中节点的数目范围是 $ [0, 10^4]$；
+- 链表中节点的数目范围是 $ [0, 10^4]$
 - $ -10^5 \leq $ `Node.val` $ \leq 10^5$
 - `pos`为`-1`或者链表中的一个**有效索引**。
 
@@ -27,7 +27,7 @@
 ## 解决方案：
 - 时间复杂度：$O(n)$
 - 空间复杂度：$O(1)$
-- 思路：哈希或快慢指针。快指针总会追上慢指针。
+- 思路：哈希或快慢指针。只要单链表成环，快指针总会在某个时间点和慢指针相遇。
 
 ## AC代码：
 ```java
@@ -36,12 +36,15 @@ class Solution {
 		if (head == null)
 			return false;
 		ListNode cur1 = head, cur2 = head.next;
+        // 为了遍历得到两者相遇，循环控制条件为 cur1 != cur2
 		while (cur1 != cur2) {
-            // 若快指针先指向空，则说明链表中没有环！
-			if (cur2 == null || cur2.next == null) 
+			// 若快指针先指向空，则说明链表中没有环！
+			if (cur2 == null || cur2.next == null)
 				return false;
-			cur1 = cur1.next; // 慢指针走一步
-			cur2 = cur2.next.next; // 快指针走两步
+			// 慢指针走一步
+			cur1 = cur1.next;
+			// 快指针走两步
+			cur2 = cur2.next.next;
 		}
 		return true;
 	}
