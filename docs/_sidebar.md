@@ -199,6 +199,9 @@
     * [112.路径总和](tree/lt-112-path-sum)
     * [104.二叉树的最大深度](tree/lt-104-maximum-depth-of-binary-tree)
     * [501.二叉搜索树中的众数](tree/lt-501-find-mode-in-binary-search-tree)
+    * [106.从中序与后序遍历序列构造二叉树](tree/lt-106-construct-binary-tree-from-inorder-and-postorder-traversal)
+    * [面试题27.二叉树的镜像](tree/mst-27-er-cha-shu-de-jing-xiang-lcof)
+    * [113.路径总和II](tree/lt-113-path-sum-ii)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
