@@ -26,6 +26,7 @@
     * [70.爬楼梯](dynamicPG/lt-70-climbing-stairs)
     * [10.正则表达式匹配](dynamicPG/lt-10-regular-expression-matching)
     * [213.打家劫舍II](dynamicPG/lt-213-house-robber-ii)
+    * [面试题10-I.斐波那契数列](dynamicPG/mst-10-I-fei-bo-na-qi-shu-lie-lcof)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
@@ -47,6 +48,7 @@
     * [125.验证回文串](twoPointers/lt-125-valid-palindrome)
     * [88.合并两个有序数组](twoPointers/lt-88-merge-sorted-array)
     * [141.环形链表](twoPointers/lt-141-linked-list-cycle)
+    * [面试题4.二维数组中的查找](twoPointers/mst-4-er-wei-shu-zu-zhong-de-cha-zhao-lcof)
 
 * 深度/广度优先搜索
     * [面试题13.机器人的运动范围](dfsOrBfs/mst-13-ji-qi-ren-de-yun-dong-fan-wei-lcof)
@@ -65,6 +67,7 @@
     * [51.N皇后](dfsOrBfs/lt-51-n-queens)
     * [93.复原IP地址](dfsOrBfs/lt-93-restore-ip-addresses)
     * [47.全排列II](dfsOrBfs/lt-47-permutations-ii)
+    * [面试题12.矩阵中的路径](dfsOrBfs/mst-12-ju-zhen-zhong-de-lu-jing-lcof)
 
 * 贪心
     * [55.跳跃游戏](greedy/lt-55-jump-game)
@@ -171,9 +174,11 @@
     * [1371.每个元音包含偶数次的最长子字符串](string/lt-1371-find-the-longest-substring-containing-vowels-in-even-counts)
     * [面试题01.06.字符串压缩](string/mst-01-06-compress-string-lcci)
     * [14.最长公共前缀](string/lt-14-longest-common-prefix)
+    * [面试题5.替换空格](string/mst-5-ti-huan-kong-ge-lcof)
 
 * 树
     * [543.二叉树的直径](tree/lt-543-diameter-of-binary-tree)
+    * [235.二叉搜索树的最近公共祖先](tree/lt-235-lowest-common-ancestor-of-a-binary-search-tree)
     * [236.二叉树的最近公共祖先](tree/lt-236-lowest-common-ancestor-of-a-binary-tree)
     * [199.二叉树的右视图](tree/lt-199-binary-tree-right-side-view)
     * [面试题34.二叉树中和为某一值的路径](tree/mst-34-er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof)
@@ -213,6 +218,7 @@
     * [LCP08.剧情触发时间](binarySearch/lt-lcp-08-ju-qing-hong-fa-shi-jian)
     * [4.寻找两个正序数组的中位数](binarySearch/lt-4-median-of-two-sorted-arrays)
     * [1300.转变数组后最接近目标值的数组和](binarySearch/lt-1300-sum-of-mutated-array-closest-to-target)
+    * [面试题11.旋转数组的最小数字](binarySearch/mst-11-xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof)
 
 * 哈希表
     * [1418.点菜展示表](hashTable/lt-1418-display-table-of-food-orders-in-a-restaurant)
@@ -221,6 +227,7 @@
     * [974.和可被K整除的子数组](hashTable/lt-974-subarray-sums-divisible-by-k)
     * [202.快乐数](hashTable/lt-202-happy-number)
     * [350.两个数组的交集II](hashTable/lt-350-II-intersection-of-two-arrays-ii)
+    * [面试题3.数组中重复的数字](hashTable/mst-3-shu-zu-zhong-zhong-fu-de-shu-zi-lcof)
 
 * 拓扑排序
     * [210.课程表II](topologicalSort/lt-210-course-schedule-ii)
@@ -232,3 +239,4 @@
     * [155.最小栈](design/lt-155-min-stack)
     * [225.用队列实现栈](design/lt-225-implement-stack-using-queues)
     * [297.二叉树的序列化与反序列化](design/lt-297-serialize-and-deserialize-binary-tree)
+    * [面试题09.用两个栈实现队列](design/mst-09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof)
