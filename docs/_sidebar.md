@@ -149,6 +149,7 @@
     * [223.矩形面积](math/lt-223-rectangle-area)
     * [面试题49.丑数](math/mst-49-chou-shu-lcof)
     * [119.杨辉三角II](math/lt-119-pascals-triangle-ii)
+    * [面试题16.数值的整数次方](math/mst-16-shu-zhi-de-zheng-shu-ci-fang-lcof)
 
 * 位运算
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
@@ -158,6 +159,7 @@
     * [136.只出现一次的数字](bitOperation/lt-136-single-number)
     * [78.子集](bitOperation/lt-78-subsets)
     * [面试题56-II.数组中数字出现的次数II](bitOperation/mst-56-II-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof)
+    * [面试题15.二进制中1的个数](bitOperation/mst-15-er-jin-zhi-zhong-1de-ge-shu-lcof)
 
 * 排序
     * [912.排序数组](sort/lt-912-sort-an-array)
@@ -207,6 +209,7 @@
     * [106.从中序与后序遍历序列构造二叉树](tree/lt-106-construct-binary-tree-from-inorder-and-postorder-traversal)
     * [面试题27.二叉树的镜像](tree/mst-27-er-cha-shu-de-jing-xiang-lcof)
     * [113.路径总和II](tree/lt-113-path-sum-ii)
+    * [117.填充每个节点的下一个右侧节点指针II](tree/lt-117-populating-next-right-pointers-in-each-node-ii)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
