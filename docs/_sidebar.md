@@ -99,6 +99,7 @@
     * [1014.最佳观光组合](array/lt-1014-best-sightseeing-pair)
     * [1572.矩阵对角线元素的和](array/lt-1572-matrix-diagonal-sum)
     * [54.螺旋矩阵](array/lt-54-spiral-matrix)
+    * [面试题21.调整数组顺序使奇数位于偶数前面](array/mst-21-diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof)
 
 * 栈
     * [150.逆波兰表达式求值](stack/lt-150-evaluate-reverse-polish-notation)
@@ -132,6 +133,7 @@
     * [21.合并两个有序链表](linkedlist/lt-21-merge-two-sorted-lists)
     * [876.链表的中间结点](linkedlist/lt-876-middle-of-the-linked-list)
     * [19.删除链表的倒数第N个节点](linkedlist/lt-19-remove-nth-node-from-end-of-list)
+    * [面试题18.删除链表的节点](linkedlist/mst-18-shan-chu-lian-biao-de-jie-dian-lcof)
 
 * 数学
     * [507.完美数](math/lt-507-perfect-number)
@@ -150,6 +152,8 @@
     * [面试题49.丑数](math/mst-49-chou-shu-lcof)
     * [119.杨辉三角II](math/lt-119-pascals-triangle-ii)
     * [面试题16.数值的整数次方](math/mst-16-shu-zhi-de-zheng-shu-ci-fang-lcof)
+    * [面试题17.打印从1到最大的n位数](math/mst-17-da-yin-cong-1dao-zui-da-de-nwei-shu-lcof)
+    * [面试题20.表示数值的字符串](math/mst-20-biao-shi-shu-zhi-de-zi-fu-chuan-lcof)
 
 * 位运算
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
