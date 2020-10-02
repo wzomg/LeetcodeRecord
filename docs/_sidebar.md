@@ -27,6 +27,7 @@
     * [10.正则表达式匹配](dynamicPG/lt-10-regular-expression-matching)
     * [213.打家劫舍II](dynamicPG/lt-213-house-robber-ii)
     * [面试题10-I.斐波那契数列](dynamicPG/mst-10-I-fei-bo-na-qi-shu-lie-lcof)
+    * [LCP19.秋叶收藏集](dynamicPG/lt-lcp-19-qiu-ye-shou-cang-ji)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
@@ -214,6 +215,7 @@
     * [面试题27.二叉树的镜像](tree/mst-27-er-cha-shu-de-jing-xiang-lcof)
     * [113.路径总和II](tree/lt-113-path-sum-ii)
     * [117.填充每个节点的下一个右侧节点指针II](tree/lt-117-populating-next-right-pointers-in-each-node-ii)
+    * [701.二叉搜索树中的插入操作](tree/lt-701-insert-into-a-binary-search-tree)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
@@ -235,6 +237,7 @@
     * [202.快乐数](hashTable/lt-202-happy-number)
     * [350.两个数组的交集II](hashTable/lt-350-II-intersection-of-two-arrays-ii)
     * [面试题3.数组中重复的数字](hashTable/mst-3-shu-zu-zhong-zhong-fu-de-shu-zi-lcof)
+    * [771.宝石与石头](hashTable/lt-771-jewels-and-stones)
 
 * 拓扑排序
     * [210.课程表II](topologicalSort/lt-210-course-schedule-ii)
