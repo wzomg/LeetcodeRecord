@@ -110,6 +110,7 @@
     * [面试题59-II.队列的最大值](stack/mst-59-II-dui-lie-de-zui-da-zhi-lcof)
     * [20.有效的括号](stack/lt-20-valid-parentheses)
     * [1541.平衡括号字符串的最少插入次数](stack/lt-1541-minimum-insertions-to-balance-a-parentheses-string)
+    * [面试题31.栈的压入、弹出序列](stack/mst-31-zhan-de-ya-ru-dan-chu-xu-lie-lcof)
 
 * 堆
     * [23.合并K个升序链表](heap/lt-23-merge-k-sorted-lists)
@@ -135,6 +136,7 @@
     * [876.链表的中间结点](linkedlist/lt-876-middle-of-the-linked-list)
     * [19.删除链表的倒数第N个节点](linkedlist/lt-19-remove-nth-node-from-end-of-list)
     * [面试题18.删除链表的节点](linkedlist/mst-18-shan-chu-lian-biao-de-jie-dian-lcof)
+    * [面试题22.链表中倒数第k个节点](linkedlist/mst-22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof)
 
 * 数学
     * [507.完美数](math/lt-507-perfect-number)
@@ -216,6 +218,7 @@
     * [113.路径总和II](tree/lt-113-path-sum-ii)
     * [117.填充每个节点的下一个右侧节点指针II](tree/lt-117-populating-next-right-pointers-in-each-node-ii)
     * [701.二叉搜索树中的插入操作](tree/lt-701-insert-into-a-binary-search-tree)
+    * [面试题33.二叉搜索树的后序遍历序列](tree/mst-33-er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
