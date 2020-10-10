@@ -28,6 +28,7 @@
     * [213.打家劫舍II](dynamicPG/lt-213-house-robber-ii)
     * [面试题10-I.斐波那契数列](dynamicPG/mst-10-I-fei-bo-na-qi-shu-lie-lcof)
     * [LCP19.秋叶收藏集](dynamicPG/lt-lcp-19-qiu-ye-shou-cang-ji)
+    * [416.分割等和子集](dynamicPG/lt-416-partition-equal-subset-sum)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
@@ -137,6 +138,7 @@
     * [19.删除链表的倒数第N个节点](linkedlist/lt-19-remove-nth-node-from-end-of-list)
     * [面试题18.删除链表的节点](linkedlist/mst-18-shan-chu-lian-biao-de-jie-dian-lcof)
     * [面试题22.链表中倒数第k个节点](linkedlist/mst-22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof)
+    * [面试题35.复杂链表的复制](linkedlist/mst-35-fu-za-lian-biao-de-fu-zhi-lcof)
 
 * 数学
     * [507.完美数](math/lt-507-perfect-number)
@@ -219,6 +221,7 @@
     * [117.填充每个节点的下一个右侧节点指针II](tree/lt-117-populating-next-right-pointers-in-each-node-ii)
     * [701.二叉搜索树中的插入操作](tree/lt-701-insert-into-a-binary-search-tree)
     * [面试题33.二叉搜索树的后序遍历序列](tree/mst-33-er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof)
+    * [面试题36.二叉搜索树与双向链表](tree/mst-36-er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
