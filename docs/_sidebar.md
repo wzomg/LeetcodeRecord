@@ -159,6 +159,8 @@
     * [面试题16.数值的整数次方](math/mst-16-shu-zhi-de-zheng-shu-ci-fang-lcof)
     * [面试题17.打印从1到最大的n位数](math/mst-17-da-yin-cong-1dao-zui-da-de-nwei-shu-lcof)
     * [面试题20.表示数值的字符串](math/mst-20-biao-shi-shu-zhi-de-zi-fu-chuan-lcof)
+    * [1363.形成三的最大倍数](math/lt-1363-largest-multiple-of-three)
+    * [888.公平的糖果交换](math/lt-888-fair-candy-swap)
 
 * 位运算
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
@@ -186,6 +188,7 @@
     * [面试题01.06.字符串压缩](string/mst-01-06-compress-string-lcci)
     * [14.最长公共前缀](string/lt-14-longest-common-prefix)
     * [面试题5.替换空格](string/mst-5-ti-huan-kong-ge-lcof)
+    * [1419.数青蛙](string/lt-1419-minimum-number-of-frogs-croaking)
 
 * 树
     * [543.二叉树的直径](tree/lt-543-diameter-of-binary-tree)
@@ -222,6 +225,7 @@
     * [701.二叉搜索树中的插入操作](tree/lt-701-insert-into-a-binary-search-tree)
     * [面试题33.二叉搜索树的后序遍历序列](tree/mst-33-er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof)
     * [面试题36.二叉搜索树与双向链表](tree/mst-36-er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof)
+    * [530.二叉搜索树的最小绝对差](tree/lt-530-minimum-absolute-difference-in-bst)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
