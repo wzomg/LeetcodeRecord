@@ -139,6 +139,7 @@
     * [面试题18.删除链表的节点](linkedlist/mst-18-shan-chu-lian-biao-de-jie-dian-lcof)
     * [面试题22.链表中倒数第k个节点](linkedlist/mst-22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof)
     * [面试题35.复杂链表的复制](linkedlist/mst-35-fu-za-lian-biao-de-fu-zhi-lcof)
+    * [](linkedlist/lt-143-reorder-list)
 
 * 数学
     * [507.完美数](math/lt-507-perfect-number)
@@ -226,6 +227,7 @@
     * [面试题33.二叉搜索树的后序遍历序列](tree/mst-33-er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof)
     * [面试题36.二叉搜索树与双向链表](tree/mst-36-er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof)
     * [530.二叉搜索树的最小绝对差](tree/lt-530-minimum-absolute-difference-in-bst)
+    * [116.填充每个节点的下一个右侧节点指针](tree/lt-116-populating-next-right-pointers-in-each-node)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
@@ -248,6 +250,7 @@
     * [350.两个数组的交集II](hashTable/lt-350-II-intersection-of-two-arrays-ii)
     * [面试题3.数组中重复的数字](hashTable/mst-3-shu-zu-zhong-zhong-fu-de-shu-zi-lcof)
     * [771.宝石与石头](hashTable/lt-771-jewels-and-stones)
+    * [1002.查找常用字符](hashTable/lt-1002-find-common-characters)
 
 * 拓扑排序
     * [210.课程表II](topologicalSort/lt-210-course-schedule-ii)
