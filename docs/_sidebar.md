@@ -139,7 +139,7 @@
     * [面试题18.删除链表的节点](linkedlist/mst-18-shan-chu-lian-biao-de-jie-dian-lcof)
     * [面试题22.链表中倒数第k个节点](linkedlist/mst-22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof)
     * [面试题35.复杂链表的复制](linkedlist/mst-35-fu-za-lian-biao-de-fu-zhi-lcof)
-    * [](linkedlist/lt-143-reorder-list)
+    * [143.重排链表](linkedlist/lt-143-reorder-list)
 
 * 数学
     * [507.完美数](math/lt-507-perfect-number)
@@ -190,6 +190,8 @@
     * [14.最长公共前缀](string/lt-14-longest-common-prefix)
     * [面试题5.替换空格](string/mst-5-ti-huan-kong-ge-lcof)
     * [1419.数青蛙](string/lt-1419-minimum-number-of-frogs-croaking)
+    * [8.字符串转换整数(atoi)](string/lt-8-string-to-integer-atoi)
+    * [12.整数转罗马数字](string/lt-12-integer-to-roman)
 
 * 树
     * [543.二叉树的直径](tree/lt-543-diameter-of-binary-tree)
@@ -240,6 +242,7 @@
     * [4.寻找两个正序数组的中位数](binarySearch/lt-4-median-of-two-sorted-arrays)
     * [1300.转变数组后最接近目标值的数组和](binarySearch/lt-1300-sum-of-mutated-array-closest-to-target)
     * [面试题11.旋转数组的最小数字](binarySearch/mst-11-xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof)
+    * [875.爱吃香蕉的珂珂](binarySearch/lt-875-koko-eating-bananas)
 
 * 哈希表
     * [1418.点菜展示表](hashTable/lt-1418-display-table-of-food-orders-in-a-restaurant)
