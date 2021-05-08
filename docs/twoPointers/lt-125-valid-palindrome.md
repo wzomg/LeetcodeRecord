@@ -19,44 +19,23 @@
 ## AC代码：
 ```java
 class Solution {
-	public boolean isPalindrome(String s) {
-		int len;
-		if (s == null || (len = s.length()) == 0)
-			return true;
-		char ltCh, rtCh;
-		boolean f1, f2;
-		for (int i = 0, j = len - 1; i < j;) {
-			ltCh = s.charAt(i);
-			rtCh = s.charAt(j);
-			f1 = isLowerLetter(ltCh) || isUpperLetter(ltCh) || isDigital(ltCh);
-			f2 = isLowerLetter(rtCh) || isUpperLetter(rtCh) || isDigital(rtCh);
-			if (!f1)
-				i++;
-			else if (!f2)
-				j--;
-			else {
-				if (isUpperLetter(ltCh))
-					ltCh = (char) (ltCh - 'A' + 'a');
-				if (isUpperLetter(rtCh))
-					rtCh = (char) (rtCh - 'A' + 'a');
-				if (ltCh != rtCh)
-					return false;
-				else {
-					i++;
-					j--;
-				}
-			}
-		}
-		return true;
-	}
-	private boolean isLowerLetter(char ch) {
-		return 'a' <= ch && ch <= 'z';
-	}
-	private boolean isUpperLetter(char ch) {
-		return 'A' <= ch && ch <= 'Z';
-	}
-	private boolean isDigital(char ch) {
-		return '0' <= ch && ch <= '9';
-	}
+    public boolean isPalindrome(String s) {
+        int len;
+        if (s == null || (len = s.length()) == 0) return true;
+        char a, b;
+        for (int i = 0, j = len - 1; i < j; i++, j--) {
+            while (i < j && !check(s.charAt(i))) i++;
+            while (i < j && !check(s.charAt(j))) j--;
+            a = s.charAt(i);
+            b = s.charAt(j);
+            if (Character.isLetter(a)) a = Character.toLowerCase(a);
+            if (Character.isLetter(b)) b = Character.toLowerCase(b);
+            if (a != b) return false;
+        }
+        return true;
+    }
+    private boolean check(char ch) {
+        return Character.isLetterOrDigit(ch);
+    }
 }
 ```

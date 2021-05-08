@@ -38,118 +38,107 @@
 ## AC代码：
 ```java
 class Solution {
-	public int calculate(String str) {
-		int len;
-		if (str == null || (len = str.length()) == 0)
-			return 0;
-		Stack<Character> stack = new Stack<Character>(); // 运算符
-		List<String> SufExpr = new ArrayList<String>(); // 后缀表达式
-		char ch;
-		int num = -1; // 初始标记为-1
-		for (int i = 0; i < len; i++) {
-			ch = str.charAt(i);
-			// 跳过多余的空格
-			if (ch == ' ')
-				continue;
-			// 若是运算符或者左右括号
-			if (isOp(ch) || ch == '(' || ch == ')') {
-				// 将之前计算得到的数字加入后缀表达式中
-				if (num != -1) {
-					SufExpr.add(num + "");
-					num = -1; // 然后将标志重新置为-1
-				}
-				// 若运算符栈为空或者为左括号，则直接入栈
-				if (stack.isEmpty() || ch == '(')
-					stack.push(ch);
-				else {
-					// 先判断一下右括号，再判断优先级
-					// 若是右括号，则栈1一直出栈直到第一次遇到左括号为止，将出栈的运算符都添加到后缀表达式中
-					if (ch == ')') {
-						while (stack.peek() != '(')
-							SufExpr.add(stack.pop() + "");
-						// 记得将左括号出栈
-						stack.pop();
-					} else { // 其他运算符
-						// 若栈1非空，就让当前运算符和栈顶运算符作优先级比较，直到返回false
-						while (!stack.isEmpty() && calPriority(ch, stack.peek()))
-							SufExpr.add(stack.pop() + "");
-						// 记得将当前运算符加入
-						stack.push(ch);
-					}
-				}
-			} else { // 数字
-				if (num == -1) // 第一次出现
-					num = ch - '0';
-				else // 将之后的数字累加
-					num = num * 10 + (ch - '0');
-			}
-		}
-		// 将最后一个数字加入后缀表达式中，并且将剩下的运算符也入栈
-		if (num != -1)
-			SufExpr.add(num + "");
-		while (!stack.isEmpty())
-			SufExpr.add(stack.pop() + "");
-		return evalRPN(SufExpr);
-	}
-	private boolean isOp(char op) {
-		return op == '+' || op == '-' || op == '*' || op == '/';
-	}
-	// 判断2个运算符的优先级，true表示要运算符出栈
-	private boolean calPriority(char ch1, char ch2) {
-		// 特判，防止弹出左括号
-		if (ch2 == '(')
-			return false;
-		// 只要当前运算符的优先级小于等于栈顶运算符的优先级，都可出栈
-		if (ch1 == '+' || ch1 == '-')
-			return true;
-		else {
-			if (ch2 == '+' || ch2 == '-')
-				return false;
-			return true;
-		}
-	}
-	// 以下是逆波兰表达式的求值方法
-	private int evalRPN(List<String> tokens) {
-		int len;
-		if (tokens == null || (len = tokens.size()) == 0)
-			return 0;
-		Stack<Integer> stack = new Stack<Integer>();
-		for (int i = 0, curLen, curD, a, b; i < len; i++) {
-			curLen = tokens.get(i).length();
-			curD = check(tokens.get(i).charAt(0));
-			if (curLen == 1 && curD < 5) {
-				b = stack.pop();
-				a = stack.pop();
-				switch (curD) {
-				case 1:
-					stack.add(a + b);
-					break;
-				case 2:
-					stack.add(a - b);
-					break;
-				case 3:
-					stack.add(a * b);
-					break;
-				case 4:
-					stack.add(a / b);
-					break;
-				}
-			} else
-				stack.push(Integer.parseInt(tokens.get(i)));
-		}
-		return stack.pop(); // 返回计算结果
-	}
-	private int check(char ch) {
-		if (ch == '+')
-			return 1;
-		else if (ch == '-')
-			return 2;
-		else if (ch == '*')
-			return 3;
-		else if (ch == '/')
-			return 4;
-		else
-			return 5;
-	}
+    public int calculate(String s) {
+        int len;
+        if (s == null || (len = s.length()) == 0) return 0;
+        Stack<Character> stack = new Stack<>();
+        List<String> sufExpr = new ArrayList<>();
+        char ch;
+        int num = -1;
+        for (int i = 0; i < len; i++) {
+            ch = s.charAt(i);
+            //跳过空格
+            if (ch == ' ' ) continue;
+            if (!isOp(ch)) { //若为数字字符，则计算数字
+                if (num == -1) num = ch - '0';
+                else num = num * 10 + (ch - '0' );
+            } else {
+                //将之前计算得到的数字加入后缀表达式中
+                if (num != -1) {
+                    sufExpr.add(String.valueOf(num));
+                    num = -1;//重置为初始状态
+                } else if (ch == '+' || ch == '-' ) {
+                    //特判某些情况：+3-1、-2+1、1-(+1+1)、(-1) ==> 0+3-1、0-2+1、1-(0+1+1)、(0-1)
+                    if (sufExpr.size() == 0) sufExpr.add(String.valueOf(0));
+                    else {
+                        //运算符栈顶元素必须为左括号，并且当前字符为 + 或 -
+                        if (!stack.isEmpty() && stack.peek() == '(' )
+                            //往后缀表达式中先添加0
+                            sufExpr.add(String.valueOf(0));
+                    }
+                }
+                //若运算符栈为空或者为左括号，则直接入栈
+                if (stack.isEmpty() || ch == '(' ) stack.push(ch);
+                else {
+                    //先判断一下右括号，再判断优先级
+                    if (ch == ')' ) {
+                        //若是右括号，则栈1一直出栈直到第一次遇到左括号为止，将出栈的运算符都添加到后缀表达式中
+                        while (stack.peek() != '(' ) sufExpr.add(String.valueOf(stack.pop()));
+                        //记得将左括号出栈
+                        stack.pop();
+                    } else {
+                        //若栈1非空，就让当前运算符和栈顶运算符作优先级比较，直到返回false
+                        while (!stack.isEmpty() && calPriority(ch, stack.peek())) {
+                            sufExpr.add(String.valueOf(stack.pop()));
+                        }
+                        //记得将当前运算符压入栈中
+                        stack.push(ch);
+                    }
+                }
+            }
+        }
+        //最后一步，添加数字和
+        if (num != -1) sufExpr.add(String.valueOf(num));
+        //栈中运算符的优先级为递增顺序
+        while (!stack.isEmpty()) {
+            sufExpr.add(String.valueOf(stack.pop()));
+        }
+        return evalRPN(sufExpr);
+    }
+    //判断2个运算符的优先级，true表示要运算符出栈
+    private boolean calPriority(char ch1, char ch2) {
+        //特判栈顶运算符，防止弹出左括号
+        if (ch2 == '(' ) return false;
+        //若当前字符的优先级小于等于栈顶运算符，则需弹出栈顶元素到后缀表达式中
+        if (ch1 == '+' || ch1 == '-' ) return true;
+        if (ch2 == '+' || ch2 == '-' ) return false;
+        return true;
+    }
+    private boolean isOp(char ch) {
+        return ch == '+' || ch == '-' || ch == '*' || ch == '/' || ch == '(' || ch == ')';
+    }
+    //计算后缀表达式
+    public int evalRPN(List<String> tokens) {
+        int len;
+        if (tokens == null || (len = tokens.size()) == 0) return 0;
+        Stack<Integer> stack = new Stack<>();
+        for (int i = 0, a, b, c; i < len; i++) {
+            if (checkOp(tokens.get(i))) {
+                b = stack.pop();
+                a = stack.pop();
+                switch (tokens.get(i)) {
+                    case "+":
+                        c = a + b;
+                        break;
+                    case "-":
+                        c = a - b;
+                        break;
+                    case "*":
+                        c = a * b;
+                        break;
+                    case "/":
+                        c = a / b;
+                        break;
+                    default:
+                        c = 0;
+                }
+                stack.push(c);
+            } else stack.push(Integer.parseInt(tokens.get(i)));
+        }
+        return stack.pop();
+    }
+    private boolean checkOp(String str) {
+        return str.equals("+") || str.equals("-") || str.equals("*") || str.equals("/");
+    }
 }
 ```

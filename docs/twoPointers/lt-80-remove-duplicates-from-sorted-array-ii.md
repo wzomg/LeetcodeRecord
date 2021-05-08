@@ -15,33 +15,20 @@
 ## 解决方案：
 - 时间复杂度：$O(n)$
 - 空间复杂度：$O(1)$
-- 思路：双指针。先初始化数组前2个相同的元素，然后遍历当前元素`nums[i]`和已归并为答案的列表尾元素进行对比，若两者不同则每次最多填2个`nums[i]`即可。
+- 思路：双指针。
 
 ## AC代码：
 ```java
 class Solution {
-	public int removeDuplicates(int[] nums) {
-		int len, pos = 0;
-		if (nums == null || (len = nums.length) == 0)
-			return 0;
-		int i = 1;
-		// 先填充前2位数
-		if (i < len && nums[i - 1] == nums[i]) {
-			pos++;
-			i++;
-		}
-		for (; i < len; i++) {
-			// 每次最多填充2个即可
-			if (nums[pos] != nums[i]) {
-				nums[++pos] = nums[i];
-				if (i + 1 < len && nums[i] == nums[i + 1]) {
-					nums[++pos] = nums[i + 1];
-					i++;
-				}
-			}
-		}
-		// 返回 pos + 1 个数
-		return pos + 1;
-	}
+    public int removeDuplicates(int[] nums) {
+        int len;
+        if (nums == null || (len = nums.length) == 0) return 0;
+        int pos = 0;
+        for (int i = 0; i < len; i++) {
+            //第3个位置-2那个位置上的元素与当前元素不相等才进行添加，表示最多只有2个重复元素
+            if (pos < 2 || nums[pos - 2] != nums[i]) nums[pos++] = nums[i];
+        }
+        return pos;
+    }
 }
 ```

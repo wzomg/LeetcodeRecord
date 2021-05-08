@@ -17,29 +17,24 @@
 ## 解决方案：
 - 时间复杂度：$O(n)$
 - 空间复杂度：$O(n)$
-- 思路：动态规划。定义：`dp1[i] = max(dp1[i-1], prices[i] - minVal)`从前往后遍历，表示第1天到第i天中某两个值产生的最大利润（通过是否在第i天**第一次**卖出确认）；`dp2[i] = max(dp2[i+1], maxVal - prices[i])`从后往前遍历，表示第i天到最后一天中某两个值产生的最大利润（通过是否在第i天**第二次**买进确认）；`res = max(dp1[i] + dp2[i])`，表示从第1天到最后一天经过2次交易产生的最大利润。注：在同一天先卖出再买入相当于合并两个子区间为一个大区间就买一次而已。
+- 思路：动态规划。状态转移看代码注释！
 
 ## AC代码：
 ```java
 class Solution {
-	public int maxProfit(int[] prices) {
-		int len;
-		if (prices == null || (len = prices.length) < 2)
-			return 0;
-		int[] dp1 = new int[len];
-		int[] dp2 = new int[len];
-		int minVal = prices[0], maxVal = prices[len - 1], res = 0;
-		for (int i = 1; i < len; i++) { // 从第二个开始遍历
-			dp1[i] = Math.max(dp1[i - 1], prices[i] - minVal);
-			minVal = Math.min(minVal, prices[i]);
-		}
-		for (int i = len - 2; i >= 0; i--) { // 从倒数第二个开始遍历
-			dp2[i] = Math.max(dp2[i + 1], maxVal - prices[i]);
-			maxVal = Math.max(maxVal, prices[i]);
-		}
-		for (int i = 0; i < len; i++)
-			res = Math.max(res, dp1[i] + dp2[i]);
-		return res;
-	}
+    public int maxProfit(int[] prices) {
+        int len;
+        if (prices == null || (len = prices.length) == 0) return 0;
+        //只进行过第一次和第二次买操作情况下获得的利润为 -prices[0]
+        int buy1 = -prices[0], sell1 = 0;
+        int buy2 = -prices[0], sell2 = 0;
+        for (int i = 1; i < len; i++) {
+            buy1 = Math.max(buy1, -prices[i]); // 只进行过一次买操作获得的最大利润
+            sell1 = Math.max(sell1, buy1 + prices[i]); //进行了一次买操作和一次卖操作获得的最大利润
+            buy2 = Math.max(buy2, sell1 - prices[i]);//在完成了一笔交易的前提下，进行了第二次买操作获得的最大利润
+            sell2 = Math.max(sell2, buy2 + prices[i]);//完成了全部两笔交易获得最大利润
+        }
+        return sell2;
+    }
 }
 ```

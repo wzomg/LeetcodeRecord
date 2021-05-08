@@ -24,17 +24,22 @@
 ## AC代码：
 ```java
 class Solution {
-	public int findDuplicate(int[] nums) {
-		int slow = 0, fast = 0, rcur = 0;
-		do {
-			slow = nums[slow];
-			fast = nums[nums[fast]];
-		} while (slow != fast);
-		while (rcur != slow) {
-			rcur = nums[rcur];
-			slow = nums[slow];
-		}
-		return rcur;
-	}
+    public int findDuplicate(int[] nums) {
+        int len;
+        if (nums == null || (len = nums.length) < 1) return -1;
+        int slow = 0, fast = nums[slow], rcur = 0;
+        //题目说了，必定会存在一个重复的元素，即一定有环，所以不需要像单链表那样判断是否为空
+        while (slow != fast) {
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        }
+        //需要再走一步然后进行比较
+        slow = nums[slow];
+        while (slow != rcur) {
+            slow = nums[slow];
+            rcur = nums[rcur];
+        }
+        return rcur;
+    }
 }
 ```
