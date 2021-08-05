@@ -26,13 +26,13 @@
 ## 解决方案：
 - 时间复杂度：$O(1)$
 - 空间复杂度：$O(1)$
-- 思路：分别将两个矩形投影至`x`轴和`y`轴，由于两个矩形相交的情况比较复杂，所以只讨论两个矩形不相交的情况，然后取反即可！
+- 思路：分别将两个矩形投影至`x`轴和`y`轴，若都有交集，则说明两个矩形重叠了。
 
 ## AC代码：
 ```java
 class Solution {
-	public boolean isRectangleOverlap(int[] rec1, int[] rec2) {
-		return !(rec1[2] <= rec2[0] || rec2[2] <= rec1[0]) && !(rec1[1] >= rec2[3] || rec2[1] >= rec1[3]);
-	}
+    public boolean isRectangleOverlap(int[] rec1, int[] rec2) {
+        return Math.min(rec1[2], rec2[2]) > Math.max(rec1[0], rec2[0]) && Math.min(rec1[3], rec2[3]) > Math.max(rec1[1], rec2[1]);
+    }
 }
 ```

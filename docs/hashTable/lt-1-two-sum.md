@@ -32,3 +32,20 @@ class Solution {
 	}
 }
 ```
+
+```go
+func twoSum(nums []int, target int) []int {
+	var res = []int{-1, -1}
+	var link = make(map[int]int)
+	for idx, val := range nums {
+		cha := target - val
+		if preIdx, ok := link[cha]; ok {
+			res[0] = preIdx
+			res[1] = idx
+		} else {
+			link[val] = idx
+		}
+	}
+	return res
+}
+```
