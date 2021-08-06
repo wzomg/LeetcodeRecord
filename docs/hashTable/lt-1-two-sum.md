@@ -16,6 +16,7 @@
 - 思路：采用边哈希边查找的方式来判断是否有相异下标的2个元素和为`target`即可！
 
 ## AC代码：
+- Java
 ```java
 class Solution {
 	public int[] twoSum(int[] nums, int target) {
@@ -32,7 +33,7 @@ class Solution {
 	}
 }
 ```
-
+- Go
 ```go
 func twoSum(nums []int, target int) []int {
 	var res = []int{-1, -1}

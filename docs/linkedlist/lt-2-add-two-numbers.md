@@ -20,6 +20,7 @@
 - 思路：小学数学，只需按位相加，最后的进位单独处理！虚拟一个头指针指向答案整条链的首地址，通过另一个指针cur创建new下一个next节点，注意：要先new创建当前指针的下一个next节点再移动当前cur到下一个节点的地址处，否则将会断开整条链！
 
 ## AC代码：
+- Java：
 ```java
 class Solution {
 	public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
@@ -39,5 +40,30 @@ class Solution {
 		}
 		return dummyHead.next;
 	}
+}
+```
+- Go：
+```go
+// go 不支持三目运算符
+func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
+	dummyHead := new(ListNode)
+	dummyCur := dummyHead
+	carry := 0
+	for l1 != nil || l2 != nil || carry != 0 {
+		curSum := carry
+		if l1 != nil {
+			curSum += l1.Val
+			l1 = l1.Next
+		}
+		if l2 != nil {
+			curSum += l2.Val
+			l2 = l2.Next
+		}
+		dummyCur.Next = new(ListNode)
+		dummyCur = dummyCur.Next
+		dummyCur.Val = curSum % 10
+		carry = curSum / 10
+	}
+	return dummyHead.Next
 }
 ```
