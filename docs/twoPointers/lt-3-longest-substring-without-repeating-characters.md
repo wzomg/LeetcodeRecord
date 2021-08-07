@@ -16,6 +16,7 @@
 - 思路：以右指针为参照点，若当前右指针指向字符出现的次数大于1，则不断地移动左指针（不超过右指针），然后更新一下区间元素不重复出现的最多个数：`max(res,rt−lt+1)`即可！
 
 ## AC代码：
+- Java：
 ```java
 class Solution {
 	public int lengthOfLongestSubstring(String s) {
@@ -34,5 +35,25 @@ class Solution {
 		}
 		return res;
 	}
+}
+```
+- Go：
+```go
+func lengthOfLongestSubstring(s string) int {
+	var lt, rt, res = 0, 0, 0
+	strLen := len(s)
+	cnt := make(map[byte]int) //byte：类似 uint8，无符号类型（ 0 到 255）
+	for rt < strLen {
+		cnt[s[rt]]++
+		for lt < rt && cnt[s[rt]] > 1 {
+			cnt[s[lt]]--
+			lt++
+		}
+		if res < rt-lt+1 {
+			res = rt - lt + 1
+		}
+		rt++
+	}
+	return res
 }
 ```
