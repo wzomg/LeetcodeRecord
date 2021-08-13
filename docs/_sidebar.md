@@ -166,6 +166,7 @@
     * [面试题20.表示数值的字符串](math/mst-20-biao-shi-shu-zhi-de-zi-fu-chuan-lcof)
     * [1363.形成三的最大倍数](math/lt-1363-largest-multiple-of-three)
     * [888.公平的糖果交换](math/lt-888-fair-candy-swap)
+    * [233.数字1的个数](math/lt-233-number-of-digit-one)
 
 * 位运算
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
