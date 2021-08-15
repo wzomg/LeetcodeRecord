@@ -31,6 +31,7 @@
     * [416.分割等和子集](dynamicPG/lt-416-partition-equal-subset-sum)
     * [446.等差数列划分II-子序列](dynamicPG/lt-446-arithmetic-slices-ii-subsequence)
     * [516.最长回文子序列](dynamicPG/lt-516-longest-palindromic-subsequence)
+    * [576.出界的路径数](dynamicPG/lt-576-out-of-boundary-paths)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
