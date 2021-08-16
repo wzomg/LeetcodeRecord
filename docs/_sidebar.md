@@ -73,6 +73,7 @@
     * [93.复原IP地址](dfsOrBfs/lt-93-restore-ip-addresses)
     * [47.全排列II](dfsOrBfs/lt-47-permutations-ii)
     * [面试题12.矩阵中的路径](dfsOrBfs/mst-12-ju-zhen-zhong-de-lu-jing-lcof)
+    * [526.优美的排列](dfsOrBfs/lt-526-beautiful-arrangement)
 
 * 贪心
     * [55.跳跃游戏](greedy/lt-55-jump-game)
