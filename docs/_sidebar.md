@@ -200,6 +200,7 @@
     * [1419.数青蛙](string/lt-1419-minimum-number-of-frogs-croaking)
     * [8.字符串转换整数(atoi)](string/lt-8-string-to-integer-atoi)
     * [12.整数转罗马数字](string/lt-12-integer-to-roman)
+    * [551.学生出勤记录I](string/lt-551-student-attendance-record-i)
 
 * 树
     * [543.二叉树的直径](tree/lt-543-diameter-of-binary-tree)
