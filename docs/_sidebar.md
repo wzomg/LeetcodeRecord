@@ -32,6 +32,7 @@
     * [446.等差数列划分II-子序列](dynamicPG/lt-446-arithmetic-slices-ii-subsequence)
     * [516.最长回文子序列](dynamicPG/lt-516-longest-palindromic-subsequence)
     * [576.出界的路径数](dynamicPG/lt-576-out-of-boundary-paths)
+    * [552.学生出勤记录II](dynamicPG/lt-552-student-attendance-record-ii)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
