@@ -174,6 +174,7 @@
     * [1363.形成三的最大倍数](math/lt-1363-largest-multiple-of-three)
     * [888.公平的糖果交换](math/lt-888-fair-candy-swap)
     * [233.数字1的个数](math/lt-233-number-of-digit-one)
+    * [789.逃脱阻碍者](math/lt-789-escape-the-ghosts)
 
 * 位运算
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
