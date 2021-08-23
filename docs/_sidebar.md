@@ -112,6 +112,7 @@
     * [面试题21.调整数组顺序使奇数位于偶数前面](array/mst-21-diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof)
     * [413.等差数列划分](array/lt-413-arithmetic-slices)
     * [1583.统计不开心的朋友](array/lt-1583-count-unhappy-friends)
+    * [1646.获取生成数组中的最大值](array/lt-1646-get-maximum-in-generated-array)
 
 * 栈
     * [150.逆波兰表达式求值](stack/lt-150-evaluate-reverse-polish-notation)
