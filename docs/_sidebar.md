@@ -78,6 +78,7 @@
     * [47.全排列II](dfsOrBfs/lt-47-permutations-ii)
     * [面试题12.矩阵中的路径](dfsOrBfs/mst-12-ju-zhen-zhong-de-lu-jing-lcof)
     * [526.优美的排列](dfsOrBfs/lt-526-beautiful-arrangement)
+    * [787.K站中转内最便宜的航班](dfsOrBfs/lt-787-cheapest-flights-within-k-stops)
 
 * 贪心
     * [55.跳跃游戏](greedy/lt-55-jump-game)
