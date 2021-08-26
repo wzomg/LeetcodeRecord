@@ -58,6 +58,7 @@
     * [345.反转字符串中的元音字母](twoPointers/lt-345-reverse-vowels-of-a-string)
     * [541.反转字符串II](twoPointers/lt-541-reverse-string-ii)
     * [443.压缩字符串](twoPointers/lt-443-string-compression)
+    * [881.救生艇](twoPointers/lt-881-boats-to-save-people)
 
 * 深度/广度优先搜索
     * [面试题13.机器人的运动范围](dfsOrBfs/mst-13-ji-qi-ren-de-yun-dong-fan-wei-lcof)
