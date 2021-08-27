@@ -284,3 +284,4 @@
     * [225.用队列实现栈](design/lt-225-implement-stack-using-queues)
     * [297.二叉树的序列化与反序列化](design/lt-297-serialize-and-deserialize-binary-tree)
     * [面试题09.用两个栈实现队列](design/mst-09-yong-liang-ge-zhan-shi-xian-dui-lie-lcof)
+    * [295.数据流的中位数](design/lt-295-find-median-from-data-stream)
