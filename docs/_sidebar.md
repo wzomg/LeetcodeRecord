@@ -262,6 +262,7 @@
     * [1300.转变数组后最接近目标值的数组和](binarySearch/lt-1300-sum-of-mutated-array-closest-to-target)
     * [面试题11.旋转数组的最小数字](binarySearch/mst-11-xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof)
     * [875.爱吃香蕉的珂珂](binarySearch/lt-875-koko-eating-bananas)
+    * [528.按权重随机选择](binarySearch/lt-528-random-pick-with-weight)
 
 * 哈希表
     * [1418.点菜展示表](hashTable/lt-1418-display-table-of-food-orders-in-a-restaurant)
