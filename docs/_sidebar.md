@@ -117,6 +117,7 @@
     * [1583.统计不开心的朋友](array/lt-1583-count-unhappy-friends)
     * [1646.获取生成数组中的最大值](array/lt-1646-get-maximum-in-generated-array)
     * [1588.所有奇数长度子数组的和](array/lt-1588-sum-of-all-odd-length-subarrays)
+    * [1109.航班预订统计](array/lt-1109-corporate-flight-bookings)
 
 * 栈
     * [150.逆波兰表达式求值](stack/lt-150-evaluate-reverse-polish-notation)
