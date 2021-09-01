@@ -15,7 +15,16 @@
 - 思路：双指针移动。先定位一个指针到第k个节点的位置，然后和另外一个指针从头开始一起移动，直到指针cur2移动到最后一个节点为止！
 
 ## AC代码：
+- Java
+
 ```java
+class ListNode {
+    int val;
+    ListNode next;
+    ListNode(int x) {
+        val = x;
+    }
+}
 class Solution {
 	public ListNode getKthFromEnd(ListNode head, int k) {
 		ListNode cur1 = head, cur2 = head;
@@ -30,5 +39,29 @@ class Solution {
 		}
 		return cur1;
 	}
+}
+```
+
+- Go
+
+```go
+type ListNode struct {
+	Val  int
+	Next *ListNode
+}
+func getKthFromEnd(head *ListNode, k int) *ListNode {
+	cur := head
+	for ; k > 0; k-- {
+		if cur == nil {
+			return nil
+		}
+		cur = cur.Next
+	}
+	pre := head
+	for cur != nil {
+		pre = pre.Next
+		cur = cur.Next
+	}
+	return pre
 }
 ```
