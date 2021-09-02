@@ -135,6 +135,7 @@
     * [面试题40.最小的k个数](heap/mst-40-zui-xiao-de-kge-shu-lcof)
     * [378.有序矩阵中第K小的元素](heap/lt-378-kth-smallest-element-in-a-sorted-matrix)
     * [313.超级丑数](heap/lt-313-super-ugly-number)
+    * [面试题17.14.最小K个数](heap/mst-17-14-smallest-k-lcci)
 
 * 链表
     * [142.环形链表II](linkedlist/lt-142-linked-list-cycle-ii)
