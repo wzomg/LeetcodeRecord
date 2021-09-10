@@ -216,6 +216,7 @@
     * [8.字符串转换整数(atoi)](string/lt-8-string-to-integer-atoi)
     * [12.整数转罗马数字](string/lt-12-integer-to-roman)
     * [551.学生出勤记录I](string/lt-551-student-attendance-record-i)
+    * [68.文本左右对齐](string/lt-68-text-justification)
 
 * 树
     * [543.二叉树的直径](tree/lt-543-diameter-of-binary-tree)
@@ -268,6 +269,7 @@
     * [面试题11.旋转数组的最小数字](binarySearch/mst-11-xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof)
     * [875.爱吃香蕉的珂珂](binarySearch/lt-875-koko-eating-bananas)
     * [528.按权重随机选择](binarySearch/lt-528-random-pick-with-weight)
+    * [1894.找到需要补充粉笔的学生编号](binarySearch/lt-1894-find-the-student-that-will-replace-the-chalk)
 
 * 哈希表
     * [1418.点菜展示表](hashTable/lt-1418-display-table-of-food-orders-in-a-restaurant)
