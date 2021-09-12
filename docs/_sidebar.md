@@ -33,6 +33,7 @@
     * [516.最长回文子序列](dynamicPG/lt-516-longest-palindromic-subsequence)
     * [576.出界的路径数](dynamicPG/lt-576-out-of-boundary-paths)
     * [552.学生出勤记录II](dynamicPG/lt-552-student-attendance-record-ii)
+    * [600.不含连续1的非负整数](dynamicPG/lt-600-non-negative-integers-without-consecutive-ones)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
@@ -90,6 +91,7 @@
     * [1111.有效括号的嵌套深度](greedy/lt-1111-maximum-nesting-depth-of-two-valid-parentheses-strings)
     * [409.最长回文串](greedy/lt-409-longest-palindrome)
     * [32.最长有效括号](greedy/lt-32-longest-valid-parentheses)
+    * [678.有效的括号字符串](greedy/lt-678-valid-parenthesis-string)
 
 * 并查集
     * [128.最长连续序列](unionFind/lt-128-longest-consecutive-sequence)
