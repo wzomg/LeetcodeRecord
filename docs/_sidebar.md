@@ -187,6 +187,7 @@
     * [233.数字1的个数](math/lt-233-number-of-digit-one)
     * [789.逃脱阻碍者](math/lt-789-escape-the-ghosts)
     * [470.用Rand7()实现Rand10()](math/lt-470-implement-rand10-using-rand7)
+    * [447.回旋镖的数量](math/lt-447-number-of-boomerangs)
 
 * 位运算
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
