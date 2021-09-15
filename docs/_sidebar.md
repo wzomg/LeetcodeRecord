@@ -61,7 +61,7 @@
     * [443.压缩字符串](twoPointers/lt-443-string-compression)
     * [881.救生艇](twoPointers/lt-881-boats-to-save-people)
     * [165.比较版本号](twoPointers/lt-165-compare-version-numbers)
-    * [](twoPointers/lt-524-longest-word-in-dictionary-through-deleting)
+    * [524.通过删除字母匹配到字典里最长单词](twoPointers/lt-524-longest-word-in-dictionary-through-deleting)
 
 * 深度/广度优先搜索
     * [面试题13.机器人的运动范围](dfsOrBfs/mst-13-ji-qi-ren-de-yun-dong-fan-wei-lcof)
@@ -274,6 +274,7 @@
     * [875.爱吃香蕉的珂珂](binarySearch/lt-875-koko-eating-bananas)
     * [528.按权重随机选择](binarySearch/lt-528-random-pick-with-weight)
     * [1894.找到需要补充粉笔的学生编号](binarySearch/lt-1894-find-the-student-that-will-replace-the-chalk)
+    * [162.寻找峰值](binarySearch/lt-162-find-peak-element)
 
 * 哈希表
     * [1418.点菜展示表](hashTable/lt-1418-display-table-of-food-orders-in-a-restaurant)
