@@ -207,6 +207,7 @@
 
 * 字典树
     * [820.单词的压缩编码](trie/lt-820-short-encoding-of-words)
+    * [212.单词搜索II](trie/lt-212-word-search-ii)
 
 * 字符串
     * [151.翻转字符串里的单词](string/lt-151-reverse-words-in-a-string)
