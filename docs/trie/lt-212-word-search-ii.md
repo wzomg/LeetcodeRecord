@@ -27,7 +27,7 @@
 ## 解决方案：
 - 时间复杂度：$O(m \times n \times 4^l)$
 - 空间复杂度：$O(k \times l)$
-- 思路：前缀树+dfs+剪枝。将所有单词放到一个字典树中，若匹配到word中的单词，则将该单词从字典树中去除，不然会重复遍历，增加复杂度（剪枝技巧）。
+- 思路：前缀树+dfs+剪枝。将所有单词放到一个字典树中，若深搜路径匹配到word中的单词，则将该单词从字典树中去除，减少重复遍历时间复杂度（剪枝）。
 
 ## AC代码：
 ```go
@@ -64,7 +64,7 @@ func findWords(board [][]byte, words []string) []string {
 	}
 	return res
 }
-func dfs(curNode *TrieNode, x, y, m, n int, board [][]byte, res *[]string) { //注意用指针才能修改
+func dfs(curNode *TrieNode, x, y, m, n int, board [][]byte, res *[]string) { //注意用指针才能修改里面的值
 	if curNode == nil {
 		return
 	}

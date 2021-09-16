@@ -287,6 +287,7 @@
     * [面试题3.数组中重复的数字](hashTable/mst-3-shu-zu-zhong-zhong-fu-de-shu-zi-lcof)
     * [771.宝石与石头](hashTable/lt-771-jewels-and-stones)
     * [1002.查找常用字符](hashTable/lt-1002-find-common-characters)
+    * [36.有效的数独](hashTable/lt-36-valid-sudoku)
 
 * 拓扑排序
     * [210.课程表II](topologicalSort/lt-210-course-schedule-ii)
