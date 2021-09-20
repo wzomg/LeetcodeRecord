@@ -35,6 +35,7 @@
     * [552.学生出勤记录II](dynamicPG/lt-552-student-attendance-record-ii)
     * [600.不含连续1的非负整数](dynamicPG/lt-600-non-negative-integers-without-consecutive-ones)
     * [650.只有两个键的键盘](dynamicPG/lt-650-2-keys-keyboard)
+    * [673.最长递增子序列的个数](dynamicPG/lt-673-number-of-longest-increasing-subsequence)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
