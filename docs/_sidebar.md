@@ -165,6 +165,7 @@
     * [面试题22.链表中倒数第k个节点](linkedlist/mst-22-lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof)
     * [面试题35.复杂链表的复制](linkedlist/mst-35-fu-za-lian-biao-de-fu-zhi-lcof)
     * [143.重排链表](linkedlist/lt-143-reorder-list)
+    * [725.分隔链表](linkedlist/lt-725-split-linked-list-in-parts)
 
 * 数学
     * [507.完美数](math/lt-507-perfect-number)
