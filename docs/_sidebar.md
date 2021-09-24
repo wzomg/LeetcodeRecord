@@ -166,6 +166,7 @@
     * [面试题35.复杂链表的复制](linkedlist/mst-35-fu-za-lian-biao-de-fu-zhi-lcof)
     * [143.重排链表](linkedlist/lt-143-reorder-list)
     * [725.分隔链表](linkedlist/lt-725-split-linked-list-in-parts)
+    * [430.扁平化多级双向链表](linkedlist/lt-430-flatten-a-multilevel-doubly-linked-list)
 
 * 数学
     * [507.完美数](math/lt-507-perfect-number)
