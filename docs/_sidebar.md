@@ -37,6 +37,7 @@
     * [650.只有两个键的键盘](dynamicPG/lt-650-2-keys-keyboard)
     * [673.最长递增子序列的个数](dynamicPG/lt-673-number-of-longest-increasing-subsequence)
     * [583.两个字符串的删除操作](dynamicPG/lt-583-delete-operation-for-two-strings)
+    * [639.解码方法II](dynamicPG/lt-639-decode-ways-ii)
 
 * 双指针
     * [15.三数之和](twoPointers/lt-15-3sum.md)
