@@ -266,6 +266,7 @@
     * [面试题36.二叉搜索树与双向链表](tree/mst-36-er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof)
     * [530.二叉搜索树的最小绝对差](tree/lt-530-minimum-absolute-difference-in-bst)
     * [116.填充每个节点的下一个右侧节点指针](tree/lt-116-populating-next-right-pointers-in-each-node)
+    * [437.路径总和III](tree/lt-437-path-sum-iii)
 
 * 二分查找
     * [33.搜索旋转排序数组](binarySearch/lt-33-search-in-rotated-sorted-array)
