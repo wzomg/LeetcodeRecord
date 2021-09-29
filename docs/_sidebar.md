@@ -97,6 +97,7 @@
     * [409.最长回文串](greedy/lt-409-longest-palindrome)
     * [32.最长有效括号](greedy/lt-32-longest-valid-parentheses)
     * [678.有效的括号字符串](greedy/lt-678-valid-parenthesis-string)
+    * [517.超级洗衣机](greedy/lt-517-super-washing-machines)
 
 * 并查集
     * [128.最长连续序列](unionFind/lt-128-longest-consecutive-sequence)
