@@ -206,6 +206,7 @@
     * [78.子集](bitOperation/lt-78-subsets)
     * [面试题56-II.数组中数字出现的次数II](bitOperation/mst-56-II-shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof)
     * [面试题15.二进制中1的个数](bitOperation/mst-15-er-jin-zhi-zhong-1de-ge-shu-lcof)
+    * [405.数字转换为十六进制数](bitOperation/lt-405-convert-a-number-to-hexadecimal)
 
 * 排序
     * [912.排序数组](sort/lt-912-sort-an-array)
