@@ -127,6 +127,7 @@
     * [1646.获取生成数组中的最大值](array/lt-1646-get-maximum-in-generated-array)
     * [1588.所有奇数长度子数组的和](array/lt-1588-sum-of-all-odd-length-subarrays)
     * [1109.航班预订统计](array/lt-1109-corporate-flight-bookings)
+    * [414.第三大的数](array/lt-414-third-maximum-number)
 
 * 栈
     * [150.逆波兰表达式求值](stack/lt-150-evaluate-reverse-polish-notation)
@@ -230,6 +231,7 @@
     * [12.整数转罗马数字](string/lt-12-integer-to-roman)
     * [551.学生出勤记录I](string/lt-551-student-attendance-record-i)
     * [68.文本左右对齐](string/lt-68-text-justification)
+    * [482.密钥格式化](string/lt-482-license-key-formatting)
 
 * 树
     * [543.二叉树的直径](tree/lt-543-diameter-of-binary-tree)
@@ -297,6 +299,7 @@
     * [771.宝石与石头](hashTable/lt-771-jewels-and-stones)
     * [1002.查找常用字符](hashTable/lt-1002-find-common-characters)
     * [36.有效的数独](hashTable/lt-36-valid-sudoku)
+    * [187.重复的DNA序列](hashTable/lt-187-repeated-dna-sequences)
 
 * 拓扑排序
     * [210.课程表II](topologicalSort/lt-210-course-schedule-ii)
