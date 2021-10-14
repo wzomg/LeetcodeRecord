@@ -197,6 +197,7 @@
     * [789.逃脱阻碍者](math/lt-789-escape-the-ghosts)
     * [470.用Rand7()实现Rand10()](math/lt-470-implement-rand10-using-rand7)
     * [447.回旋镖的数量](math/lt-447-number-of-boomerangs)
+    * [29.两数相除](math/lt-29-divide-two-integers)
 
 * 位运算
     * [371.两整数之和](bitOperation/lt-371-sum-of-two-integers)
@@ -287,6 +288,7 @@
     * [528.按权重随机选择](binarySearch/lt-528-random-pick-with-weight)
     * [1894.找到需要补充粉笔的学生编号](binarySearch/lt-1894-find-the-student-that-will-replace-the-chalk)
     * [162.寻找峰值](binarySearch/lt-162-find-peak-element)
+    * [852.山脉数组的峰顶索引](binarySearch/lt-852-peak-index-in-a-mountain-array)
 
 * 哈希表
     * [1418.点菜展示表](hashTable/lt-1418-display-table-of-food-orders-in-a-restaurant)
